@@ -43,7 +43,7 @@
 
 	                $string .= get_frontend_menu($item['children'], TRUE);
 	            }else{
-	                $string .= '<li class="nav-item">';
+	                $string .= '<li class="nav-item '. set_frontend_menu_active($item['keyword']) .'">';
 	                $string .= '<a class="nav-link" target="_'. $item['target'] .'" href="'. $item['url'] .'">
 	                			'. $item['title'] .'</a>';
 	            }
@@ -56,5 +56,12 @@
 
 		return $string;
 	}
-	?>
+
+
+	function set_frontend_menu_active($keyword){
+		$CI =& get_instance();
+		$uri = $CI->uri->segment(3);
+		return ($uri == $keyword ? 'active':'');
+	}
+?>
 
