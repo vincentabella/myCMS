@@ -169,6 +169,15 @@ function get_navigation_menu_nested($parent_id){
 
 
 
+function set_admin_navigation_active($keyword){
+    $CI =& get_instance();
+    $uri = $CI->uri->segment(2);
+    return ($uri == $keyword ? 'active':'');
+}
+
+
+
+
 
 /**
  * Check Admin Navigation if parent has child

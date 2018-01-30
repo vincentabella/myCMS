@@ -33,48 +33,6 @@
           		</li>
 
           		
-
-             
-                
-                <!--<li class="nav-item dropdown" style="position: absolute;top: 10px;">
-                    <a class="nav-link dropdown-toggle mr-lg-2" id="alertsDropdown" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <i class="fa fa-fw fa-bell"></i>
-                       
-                    </a>
-
-                    <div class="dropdown-menu" aria-labelledby="alertsDropdown" style="position: relative;">
-                        <h6 class="dropdown-header">New Alerts:</h6>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">
-                            <span class="text-success">
-                                <strong>
-                                <i class="fa fa-long-arrow-up fa-fw"></i>Status Update</strong>
-                            </span>
-                            <span class="small float-right text-muted">11:21 AM</span>
-                            <div class="dropdown-message small">This is an automated server response message. All systems are online.</div>
-                        </a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">
-                            <span class="text-danger">
-                                <strong>
-                                <i class="fa fa-long-arrow-down fa-fw"></i>Status Update</strong>
-                            </span>
-                            <span class="small float-right text-muted">11:21 AM</span>
-                            <div class="dropdown-message small">This is an automated server response message. All systems are online.</div>
-                        </a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">
-                            <span class="text-success">
-                                <strong>
-                                <i class="fa fa-long-arrow-up fa-fw"></i>Status Update</strong>
-                            </span>
-                            <span class="small float-right text-muted">11:21 AM</span>
-                            <div class="dropdown-message small">This is an automated server response message. All systems are online.</div>
-                        </a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item small" href="#">View all alerts</a>
-                    </div>
-                </li>-->
        		</ul>
 
         	<button class="navbar-toggler navbar-dark navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
@@ -101,7 +59,7 @@
 		            
 
 		           	<?php if($admin_menu): foreach($admin_menu as $menu):?>
-		           		<li class="nav-item">
+		           		<li class="nav-item <?php echo set_admin_navigation_active($menu->keyword);?>">
 			              	
 			              	<?php if(navigation_menu_has_child($menu->id) == TRUE):?>
 			              		

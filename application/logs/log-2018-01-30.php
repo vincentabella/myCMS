@@ -10786,3 +10786,951 @@ DEBUG - 2018-01-30 11:50:01 --> File loaded: C:\xampp\htdocs\myCMS\application\v
 DEBUG - 2018-01-30 11:50:01 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
 INFO - 2018-01-30 11:50:01 --> Final output sent to browser
 DEBUG - 2018-01-30 11:50:01 --> Total execution time: 0.8880
+INFO - 2018-01-30 17:01:36 --> Config Class Initialized
+INFO - 2018-01-30 17:01:36 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:01:36 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:01:36 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:01:36 --> URI Class Initialized
+INFO - 2018-01-30 17:01:36 --> Router Class Initialized
+INFO - 2018-01-30 17:01:36 --> Output Class Initialized
+INFO - 2018-01-30 17:01:36 --> Security Class Initialized
+DEBUG - 2018-01-30 17:01:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:01:36 --> Input Class Initialized
+INFO - 2018-01-30 17:01:36 --> Language Class Initialized
+INFO - 2018-01-30 17:01:36 --> Language Class Initialized
+INFO - 2018-01-30 17:01:36 --> Config Class Initialized
+INFO - 2018-01-30 17:01:36 --> Loader Class Initialized
+INFO - 2018-01-30 17:01:36 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:01:36 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:01:37 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:01:37 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:01:37 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:01:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:01:37 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:01:37 --> Page MX_Controller Initialized
+INFO - 2018-01-30 17:01:37 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:01:37 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:01:37 --> Model Class Initialized
+DEBUG - 2018-01-30 17:01:37 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:01:37 --> Model Class Initialized
+DEBUG - 2018-01-30 17:01:37 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:01:37 --> Model Class Initialized
+DEBUG - 2018-01-30 17:01:38 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:01:38 --> Model Class Initialized
+DEBUG - 2018-01-30 17:01:38 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:01:38 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/views/admin/index.php
+DEBUG - 2018-01-30 17:01:38 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:01:38 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:01:38 --> Final output sent to browser
+DEBUG - 2018-01-30 17:01:38 --> Total execution time: 2.5568
+INFO - 2018-01-30 17:01:44 --> Config Class Initialized
+INFO - 2018-01-30 17:01:44 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:01:44 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:01:44 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:01:44 --> URI Class Initialized
+INFO - 2018-01-30 17:01:44 --> Router Class Initialized
+INFO - 2018-01-30 17:01:45 --> Output Class Initialized
+INFO - 2018-01-30 17:01:45 --> Security Class Initialized
+DEBUG - 2018-01-30 17:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:01:45 --> Input Class Initialized
+INFO - 2018-01-30 17:01:45 --> Language Class Initialized
+INFO - 2018-01-30 17:01:45 --> Language Class Initialized
+INFO - 2018-01-30 17:01:45 --> Config Class Initialized
+INFO - 2018-01-30 17:01:45 --> Loader Class Initialized
+INFO - 2018-01-30 17:01:45 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:01:45 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:01:45 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:01:45 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:01:45 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:01:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:01:45 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:01:45 --> Dashboard MX_Controller Initialized
+INFO - 2018-01-30 17:01:45 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:01:45 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:01:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:01:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:01:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:01:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:01:46 --> Model Class Initialized
+DEBUG - 2018-01-30 17:01:46 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:01:46 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/dashboard/views/dashboard.php
+DEBUG - 2018-01-30 17:01:46 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:01:46 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:01:46 --> Final output sent to browser
+DEBUG - 2018-01-30 17:01:46 --> Total execution time: 1.5339
+INFO - 2018-01-30 17:04:08 --> Config Class Initialized
+INFO - 2018-01-30 17:04:08 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:04:08 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:04:08 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:04:08 --> URI Class Initialized
+INFO - 2018-01-30 17:04:08 --> Router Class Initialized
+INFO - 2018-01-30 17:04:08 --> Output Class Initialized
+INFO - 2018-01-30 17:04:08 --> Security Class Initialized
+DEBUG - 2018-01-30 17:04:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:04:08 --> Input Class Initialized
+INFO - 2018-01-30 17:04:08 --> Language Class Initialized
+INFO - 2018-01-30 17:04:08 --> Language Class Initialized
+INFO - 2018-01-30 17:04:08 --> Config Class Initialized
+INFO - 2018-01-30 17:04:08 --> Loader Class Initialized
+INFO - 2018-01-30 17:04:08 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:04:08 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:04:08 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:04:08 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:04:09 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:04:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:04:09 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:04:09 --> Dashboard MX_Controller Initialized
+INFO - 2018-01-30 17:04:09 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:04:09 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:04:09 --> Model Class Initialized
+DEBUG - 2018-01-30 17:04:09 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:04:09 --> Model Class Initialized
+DEBUG - 2018-01-30 17:04:09 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:04:09 --> Model Class Initialized
+DEBUG - 2018-01-30 17:04:09 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:04:09 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/dashboard/views/dashboard.php
+DEBUG - 2018-01-30 17:04:09 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:04:09 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:04:09 --> Final output sent to browser
+DEBUG - 2018-01-30 17:04:09 --> Total execution time: 1.5588
+INFO - 2018-01-30 17:08:31 --> Config Class Initialized
+INFO - 2018-01-30 17:08:31 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:08:31 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:08:31 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:08:31 --> URI Class Initialized
+INFO - 2018-01-30 17:08:31 --> Router Class Initialized
+INFO - 2018-01-30 17:08:31 --> Output Class Initialized
+INFO - 2018-01-30 17:08:31 --> Security Class Initialized
+DEBUG - 2018-01-30 17:08:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:08:31 --> Input Class Initialized
+INFO - 2018-01-30 17:08:31 --> Language Class Initialized
+INFO - 2018-01-30 17:08:31 --> Language Class Initialized
+INFO - 2018-01-30 17:08:31 --> Config Class Initialized
+INFO - 2018-01-30 17:08:31 --> Loader Class Initialized
+INFO - 2018-01-30 17:08:31 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:08:31 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:08:31 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:08:31 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:08:31 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:08:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:08:31 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:08:31 --> Dashboard MX_Controller Initialized
+INFO - 2018-01-30 17:08:31 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:08:32 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:08:32 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:32 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:08:32 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:32 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:08:32 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:32 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:08:32 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/dashboard/views/dashboard.php
+DEBUG - 2018-01-30 17:08:32 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:08:32 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:08:32 --> Final output sent to browser
+DEBUG - 2018-01-30 17:08:32 --> Total execution time: 1.5018
+INFO - 2018-01-30 17:08:40 --> Config Class Initialized
+INFO - 2018-01-30 17:08:40 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:08:40 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:08:40 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:08:41 --> URI Class Initialized
+INFO - 2018-01-30 17:08:41 --> Router Class Initialized
+INFO - 2018-01-30 17:08:41 --> Output Class Initialized
+INFO - 2018-01-30 17:08:41 --> Security Class Initialized
+DEBUG - 2018-01-30 17:08:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:08:41 --> Input Class Initialized
+INFO - 2018-01-30 17:08:41 --> Language Class Initialized
+INFO - 2018-01-30 17:08:41 --> Language Class Initialized
+INFO - 2018-01-30 17:08:41 --> Config Class Initialized
+INFO - 2018-01-30 17:08:41 --> Loader Class Initialized
+INFO - 2018-01-30 17:08:41 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:08:41 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:08:41 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:08:41 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:08:41 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:08:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:08:41 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:08:41 --> Dashboard MX_Controller Initialized
+INFO - 2018-01-30 17:08:41 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:08:41 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:08:41 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:41 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:08:41 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:41 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:08:41 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:41 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:08:41 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/dashboard/views/dashboard.php
+DEBUG - 2018-01-30 17:08:41 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:08:41 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:08:42 --> Final output sent to browser
+DEBUG - 2018-01-30 17:08:42 --> Total execution time: 1.1348
+INFO - 2018-01-30 17:08:43 --> Config Class Initialized
+INFO - 2018-01-30 17:08:43 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:08:44 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:08:44 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:08:44 --> URI Class Initialized
+INFO - 2018-01-30 17:08:44 --> Router Class Initialized
+INFO - 2018-01-30 17:08:44 --> Output Class Initialized
+INFO - 2018-01-30 17:08:44 --> Security Class Initialized
+DEBUG - 2018-01-30 17:08:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:08:44 --> Input Class Initialized
+INFO - 2018-01-30 17:08:44 --> Language Class Initialized
+INFO - 2018-01-30 17:08:44 --> Language Class Initialized
+INFO - 2018-01-30 17:08:44 --> Config Class Initialized
+INFO - 2018-01-30 17:08:44 --> Loader Class Initialized
+INFO - 2018-01-30 17:08:44 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:08:44 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:08:44 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:08:44 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:08:44 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:08:44 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:08:44 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:08:44 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:08:44 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:08:44 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:08:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:44 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:08:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:44 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:08:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:08:45 --> Model Class Initialized
+INFO - 2018-01-30 17:08:45 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:08:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:08:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:08:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:08:45 --> Model Class Initialized
+INFO - 2018-01-30 17:08:45 --> Config Class Initialized
+INFO - 2018-01-30 17:08:45 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:08:45 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:08:45 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:08:45 --> URI Class Initialized
+INFO - 2018-01-30 17:08:45 --> Router Class Initialized
+INFO - 2018-01-30 17:08:45 --> Output Class Initialized
+INFO - 2018-01-30 17:08:45 --> Security Class Initialized
+DEBUG - 2018-01-30 17:08:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:08:45 --> Input Class Initialized
+INFO - 2018-01-30 17:08:45 --> Language Class Initialized
+INFO - 2018-01-30 17:08:45 --> Language Class Initialized
+INFO - 2018-01-30 17:08:45 --> Config Class Initialized
+INFO - 2018-01-30 17:08:45 --> Loader Class Initialized
+INFO - 2018-01-30 17:08:45 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:08:45 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:08:45 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:08:46 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:08:46 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:08:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:08:46 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:08:51 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:08:51 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:08:51 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:08:51 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:51 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:08:51 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:51 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:08:51 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:51 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:08:51 --> Model Class Initialized
+INFO - 2018-01-30 17:08:51 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:08:51 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:08:52 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:52 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:08:52 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:52 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:08:52 --> Model Class Initialized
+DEBUG - 2018-01-30 17:08:52 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:08:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:08:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+DEBUG - 2018-01-30 17:08:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:08:53 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:08:53 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:08:53 --> Final output sent to browser
+DEBUG - 2018-01-30 17:08:53 --> Total execution time: 8.4144
+INFO - 2018-01-30 17:09:30 --> Config Class Initialized
+INFO - 2018-01-30 17:09:30 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:09:30 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:09:30 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:09:30 --> URI Class Initialized
+INFO - 2018-01-30 17:09:30 --> Router Class Initialized
+INFO - 2018-01-30 17:09:30 --> Output Class Initialized
+INFO - 2018-01-30 17:09:30 --> Security Class Initialized
+DEBUG - 2018-01-30 17:09:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:09:30 --> Input Class Initialized
+INFO - 2018-01-30 17:09:30 --> Language Class Initialized
+INFO - 2018-01-30 17:09:30 --> Language Class Initialized
+INFO - 2018-01-30 17:09:30 --> Config Class Initialized
+INFO - 2018-01-30 17:09:30 --> Loader Class Initialized
+INFO - 2018-01-30 17:09:31 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:09:31 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:09:31 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:09:31 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:09:31 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:09:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:09:31 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:09:31 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:09:31 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:09:31 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:09:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:09:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:09:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:09:31 --> Model Class Initialized
+INFO - 2018-01-30 17:09:31 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:09:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:09:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:09:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:09:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:32 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:09:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:09:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:09:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+DEBUG - 2018-01-30 17:09:33 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:09:33 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:09:33 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:09:33 --> Final output sent to browser
+DEBUG - 2018-01-30 17:09:33 --> Total execution time: 2.8633
+INFO - 2018-01-30 17:09:49 --> Config Class Initialized
+INFO - 2018-01-30 17:09:49 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:09:49 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:09:49 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:09:49 --> URI Class Initialized
+INFO - 2018-01-30 17:09:49 --> Router Class Initialized
+INFO - 2018-01-30 17:09:49 --> Output Class Initialized
+INFO - 2018-01-30 17:09:49 --> Security Class Initialized
+DEBUG - 2018-01-30 17:09:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:09:49 --> Input Class Initialized
+INFO - 2018-01-30 17:09:49 --> Language Class Initialized
+INFO - 2018-01-30 17:09:49 --> Language Class Initialized
+INFO - 2018-01-30 17:09:54 --> Config Class Initialized
+INFO - 2018-01-30 17:09:54 --> Loader Class Initialized
+INFO - 2018-01-30 17:09:54 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:09:54 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:09:54 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:09:54 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:09:54 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:09:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:09:54 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:09:54 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:09:54 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:09:54 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:09:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:09:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:09:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:09:54 --> Model Class Initialized
+INFO - 2018-01-30 17:09:54 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:09:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:09:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:09:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:09:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:09:54 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+ERROR - 2018-01-30 17:09:54 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:09:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:09:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:09:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:09:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:09:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:09:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:09:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:09:59 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:09:59 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+DEBUG - 2018-01-30 17:10:00 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:10:00 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:10:00 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:10:00 --> Final output sent to browser
+DEBUG - 2018-01-30 17:10:00 --> Total execution time: 11.6703
+INFO - 2018-01-30 17:10:08 --> Config Class Initialized
+INFO - 2018-01-30 17:10:08 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:10:08 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:10:08 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:10:08 --> URI Class Initialized
+INFO - 2018-01-30 17:10:08 --> Router Class Initialized
+INFO - 2018-01-30 17:10:09 --> Output Class Initialized
+INFO - 2018-01-30 17:10:09 --> Security Class Initialized
+DEBUG - 2018-01-30 17:10:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:10:09 --> Input Class Initialized
+INFO - 2018-01-30 17:10:09 --> Language Class Initialized
+INFO - 2018-01-30 17:10:09 --> Language Class Initialized
+INFO - 2018-01-30 17:10:09 --> Config Class Initialized
+INFO - 2018-01-30 17:10:09 --> Loader Class Initialized
+INFO - 2018-01-30 17:10:09 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:10:09 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:10:09 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:10:09 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:10:09 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:10:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:10:09 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:10:09 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:10:09 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:10:09 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:10:09 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:09 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:10:09 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:09 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:10:09 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:09 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:10:10 --> Model Class Initialized
+INFO - 2018-01-30 17:10:10 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:10:10 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:10:10 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:10 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:10:10 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:10 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:10:10 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:10 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+DEBUG - 2018-01-30 17:10:11 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:10:11 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:10:11 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:10:11 --> Final output sent to browser
+DEBUG - 2018-01-30 17:10:11 --> Total execution time: 2.9667
+INFO - 2018-01-30 17:10:48 --> Config Class Initialized
+INFO - 2018-01-30 17:10:48 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:10:48 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:10:48 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:10:48 --> URI Class Initialized
+INFO - 2018-01-30 17:10:49 --> Router Class Initialized
+INFO - 2018-01-30 17:10:49 --> Output Class Initialized
+INFO - 2018-01-30 17:10:49 --> Security Class Initialized
+DEBUG - 2018-01-30 17:10:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:10:49 --> Input Class Initialized
+INFO - 2018-01-30 17:10:49 --> Language Class Initialized
+INFO - 2018-01-30 17:10:49 --> Language Class Initialized
+INFO - 2018-01-30 17:10:49 --> Config Class Initialized
+INFO - 2018-01-30 17:10:49 --> Loader Class Initialized
+INFO - 2018-01-30 17:10:49 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:10:49 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:10:49 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:10:49 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:10:49 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:10:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:10:49 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:10:49 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:10:50 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:10:50 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:10:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:10:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:10:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:10:50 --> Model Class Initialized
+INFO - 2018-01-30 17:10:51 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:10:51 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:10:51 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:51 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:10:51 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:51 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:10:51 --> Model Class Initialized
+DEBUG - 2018-01-30 17:10:51 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+ERROR - 2018-01-30 17:10:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:10:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:10:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:10:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:10:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+DEBUG - 2018-01-30 17:10:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:10:53 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:10:53 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:10:53 --> Final output sent to browser
+DEBUG - 2018-01-30 17:10:53 --> Total execution time: 4.7726
+INFO - 2018-01-30 17:11:49 --> Config Class Initialized
+INFO - 2018-01-30 17:11:49 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:11:49 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:11:49 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:11:49 --> URI Class Initialized
+INFO - 2018-01-30 17:11:49 --> Router Class Initialized
+INFO - 2018-01-30 17:11:49 --> Output Class Initialized
+INFO - 2018-01-30 17:11:49 --> Security Class Initialized
+DEBUG - 2018-01-30 17:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:11:49 --> Input Class Initialized
+INFO - 2018-01-30 17:11:49 --> Language Class Initialized
+INFO - 2018-01-30 17:11:49 --> Language Class Initialized
+INFO - 2018-01-30 17:11:49 --> Config Class Initialized
+INFO - 2018-01-30 17:11:49 --> Loader Class Initialized
+INFO - 2018-01-30 17:11:49 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:11:49 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:11:49 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:11:49 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:11:49 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:11:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:11:50 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:11:50 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:11:50 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:11:50 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:11:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:11:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:11:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:11:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:11:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:11:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:11:50 --> Model Class Initialized
+INFO - 2018-01-30 17:11:50 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:11:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:11:51 --> Model Class Initialized
+DEBUG - 2018-01-30 17:11:51 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:11:51 --> Model Class Initialized
+DEBUG - 2018-01-30 17:11:51 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:11:51 --> Model Class Initialized
+DEBUG - 2018-01-30 17:11:51 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+ERROR - 2018-01-30 17:11:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:11:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:11:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:11:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:11:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:11:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:11:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:11:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+DEBUG - 2018-01-30 17:11:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:11:53 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:11:53 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:11:53 --> Final output sent to browser
+DEBUG - 2018-01-30 17:11:53 --> Total execution time: 4.1216
+INFO - 2018-01-30 17:11:58 --> Config Class Initialized
+INFO - 2018-01-30 17:11:58 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:11:58 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:11:58 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:11:58 --> URI Class Initialized
+INFO - 2018-01-30 17:11:58 --> Router Class Initialized
+INFO - 2018-01-30 17:11:58 --> Output Class Initialized
+INFO - 2018-01-30 17:11:58 --> Security Class Initialized
+DEBUG - 2018-01-30 17:11:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:11:58 --> Input Class Initialized
+INFO - 2018-01-30 17:11:59 --> Language Class Initialized
+INFO - 2018-01-30 17:11:59 --> Language Class Initialized
+INFO - 2018-01-30 17:11:59 --> Config Class Initialized
+INFO - 2018-01-30 17:11:59 --> Loader Class Initialized
+INFO - 2018-01-30 17:11:59 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:11:59 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:11:59 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:11:59 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:11:59 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:11:59 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:11:59 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:11:59 --> Dashboard MX_Controller Initialized
+INFO - 2018-01-30 17:11:59 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:11:59 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:11:59 --> Model Class Initialized
+DEBUG - 2018-01-30 17:11:59 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:11:59 --> Model Class Initialized
+DEBUG - 2018-01-30 17:11:59 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:11:59 --> Model Class Initialized
+DEBUG - 2018-01-30 17:11:59 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:11:59 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/dashboard/views/dashboard.php
+DEBUG - 2018-01-30 17:12:00 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:12:00 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:12:00 --> Final output sent to browser
+DEBUG - 2018-01-30 17:12:00 --> Total execution time: 1.5848
+INFO - 2018-01-30 17:12:03 --> Config Class Initialized
+INFO - 2018-01-30 17:12:03 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:12:03 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:12:03 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:12:03 --> URI Class Initialized
+INFO - 2018-01-30 17:12:03 --> Router Class Initialized
+INFO - 2018-01-30 17:12:03 --> Output Class Initialized
+INFO - 2018-01-30 17:12:03 --> Security Class Initialized
+DEBUG - 2018-01-30 17:12:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:12:03 --> Input Class Initialized
+INFO - 2018-01-30 17:12:03 --> Language Class Initialized
+INFO - 2018-01-30 17:12:03 --> Language Class Initialized
+INFO - 2018-01-30 17:12:03 --> Config Class Initialized
+INFO - 2018-01-30 17:12:03 --> Loader Class Initialized
+INFO - 2018-01-30 17:12:03 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:12:03 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:12:03 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:12:03 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:12:03 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:12:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:12:03 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:12:04 --> Blog MX_Controller Initialized
+INFO - 2018-01-30 17:12:04 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:12:04 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:12:04 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:04 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:12:04 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:04 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:12:04 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:04 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:12:04 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:04 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:12:04 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:04 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_category_model.php
+INFO - 2018-01-30 17:12:04 --> Model Class Initialized
+INFO - 2018-01-30 17:12:04 --> Helper loaded: blog/blog_helper
+INFO - 2018-01-30 17:12:09 --> Config Class Initialized
+INFO - 2018-01-30 17:12:09 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:12:09 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:12:09 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:12:09 --> URI Class Initialized
+INFO - 2018-01-30 17:12:10 --> Router Class Initialized
+INFO - 2018-01-30 17:12:10 --> Output Class Initialized
+INFO - 2018-01-30 17:12:10 --> Security Class Initialized
+DEBUG - 2018-01-30 17:12:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:12:10 --> Input Class Initialized
+INFO - 2018-01-30 17:12:10 --> Language Class Initialized
+INFO - 2018-01-30 17:12:10 --> Language Class Initialized
+INFO - 2018-01-30 17:12:10 --> Config Class Initialized
+INFO - 2018-01-30 17:12:10 --> Loader Class Initialized
+INFO - 2018-01-30 17:12:10 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:12:10 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:12:10 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:12:10 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:12:10 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:12:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:12:10 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:12:10 --> Dashboard MX_Controller Initialized
+INFO - 2018-01-30 17:12:15 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:12:15 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:12:15 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:15 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:12:15 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:15 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:12:16 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:16 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:12:16 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/dashboard/views/dashboard.php
+DEBUG - 2018-01-30 17:12:16 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:12:16 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:12:16 --> Final output sent to browser
+DEBUG - 2018-01-30 17:12:16 --> Total execution time: 6.7287
+INFO - 2018-01-30 17:12:20 --> Config Class Initialized
+INFO - 2018-01-30 17:12:20 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:12:20 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:12:20 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:12:20 --> URI Class Initialized
+INFO - 2018-01-30 17:12:20 --> Router Class Initialized
+INFO - 2018-01-30 17:12:20 --> Output Class Initialized
+INFO - 2018-01-30 17:12:20 --> Security Class Initialized
+DEBUG - 2018-01-30 17:12:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:12:20 --> Input Class Initialized
+INFO - 2018-01-30 17:12:20 --> Language Class Initialized
+INFO - 2018-01-30 17:12:20 --> Language Class Initialized
+INFO - 2018-01-30 17:12:20 --> Config Class Initialized
+INFO - 2018-01-30 17:12:20 --> Loader Class Initialized
+INFO - 2018-01-30 17:12:20 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:12:20 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:12:20 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:12:20 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:12:20 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:12:21 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:12:21 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:12:21 --> Blog MX_Controller Initialized
+INFO - 2018-01-30 17:12:21 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:12:21 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:12:21 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:12:21 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:12:21 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:12:21 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:12:21 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_category_model.php
+INFO - 2018-01-30 17:12:21 --> Model Class Initialized
+INFO - 2018-01-30 17:12:21 --> Helper loaded: blog/blog_helper
+INFO - 2018-01-30 17:12:24 --> Config Class Initialized
+INFO - 2018-01-30 17:12:24 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:12:24 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:12:24 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:12:24 --> URI Class Initialized
+INFO - 2018-01-30 17:12:24 --> Router Class Initialized
+INFO - 2018-01-30 17:12:24 --> Output Class Initialized
+INFO - 2018-01-30 17:12:24 --> Security Class Initialized
+DEBUG - 2018-01-30 17:12:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:12:24 --> Input Class Initialized
+INFO - 2018-01-30 17:12:24 --> Language Class Initialized
+INFO - 2018-01-30 17:12:25 --> Language Class Initialized
+INFO - 2018-01-30 17:12:28 --> Config Class Initialized
+INFO - 2018-01-30 17:12:29 --> Loader Class Initialized
+INFO - 2018-01-30 17:12:29 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:12:29 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:12:29 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:12:29 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:12:29 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:12:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:12:29 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:12:29 --> Dashboard MX_Controller Initialized
+INFO - 2018-01-30 17:12:29 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:12:29 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:12:29 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:29 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:12:29 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:29 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:12:29 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:30 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:12:30 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/dashboard/views/dashboard.php
+DEBUG - 2018-01-30 17:12:30 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:12:30 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:12:30 --> Final output sent to browser
+DEBUG - 2018-01-30 17:12:30 --> Total execution time: 6.0187
+INFO - 2018-01-30 17:12:51 --> Config Class Initialized
+INFO - 2018-01-30 17:12:51 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:12:51 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:12:51 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:12:51 --> URI Class Initialized
+INFO - 2018-01-30 17:12:51 --> Router Class Initialized
+INFO - 2018-01-30 17:12:52 --> Output Class Initialized
+INFO - 2018-01-30 17:12:52 --> Security Class Initialized
+DEBUG - 2018-01-30 17:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:12:52 --> Input Class Initialized
+INFO - 2018-01-30 17:12:52 --> Language Class Initialized
+INFO - 2018-01-30 17:12:52 --> Language Class Initialized
+INFO - 2018-01-30 17:12:52 --> Config Class Initialized
+INFO - 2018-01-30 17:12:52 --> Loader Class Initialized
+INFO - 2018-01-30 17:12:52 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:12:52 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:12:52 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:12:52 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:12:52 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:12:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:12:52 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:12:52 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:12:52 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:12:52 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:12:52 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:52 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:12:52 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:52 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:12:52 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:52 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:12:52 --> Model Class Initialized
+INFO - 2018-01-30 17:12:53 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:12:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:12:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:12:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:12:53 --> Model Class Initialized
+INFO - 2018-01-30 17:12:53 --> Config Class Initialized
+INFO - 2018-01-30 17:12:53 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:12:53 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:12:53 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:12:53 --> URI Class Initialized
+INFO - 2018-01-30 17:12:53 --> Router Class Initialized
+INFO - 2018-01-30 17:12:53 --> Output Class Initialized
+INFO - 2018-01-30 17:12:53 --> Security Class Initialized
+DEBUG - 2018-01-30 17:12:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:12:53 --> Input Class Initialized
+INFO - 2018-01-30 17:12:53 --> Language Class Initialized
+INFO - 2018-01-30 17:12:53 --> Language Class Initialized
+INFO - 2018-01-30 17:12:53 --> Config Class Initialized
+INFO - 2018-01-30 17:12:53 --> Loader Class Initialized
+INFO - 2018-01-30 17:12:53 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:12:53 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:12:53 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:12:54 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:12:54 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:12:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:12:54 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:12:54 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:12:54 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:12:54 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:12:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:12:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:12:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:12:54 --> Model Class Initialized
+INFO - 2018-01-30 17:12:54 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:12:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:12:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:12:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:12:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:12:54 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:12:55 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+ERROR - 2018-01-30 17:12:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 216
+ERROR - 2018-01-30 17:12:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 218
+ERROR - 2018-01-30 17:12:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 219
+ERROR - 2018-01-30 17:12:56 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\myCMS\application\modules\menus\views\edit_menu.php 220
+DEBUG - 2018-01-30 17:12:56 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:12:56 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:12:56 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:12:56 --> Final output sent to browser
+DEBUG - 2018-01-30 17:12:56 --> Total execution time: 3.1289
