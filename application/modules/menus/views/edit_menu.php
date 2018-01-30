@@ -211,24 +211,9 @@
                                     <div class="tab-content">
                                         <div class="tab-pane active" id="module" role="tabpanel">
                                             <div class="form-group" style="height: 200px; overflow-y: scroll;">
-                                                <!--<ul class="modules list-group category_list">
-                                                    <?php if($modules): foreach($modules as $module):?>
-                                                        <li class="list-group-item" title="<?php echo $module->name;?>">
-                                                            <div class="form-check">
-                                                                <label for="module<?php echo $module->id;?>">
-                                                                    <input value="<?php echo $module->id;?>" id="module<?php echo $module->id;?>" class="form-check-input" type="checkbox">
-                                                                    <?php echo truncateStringWords($module->name, 35);?>
-                                                                </label>
-                                                            </div>
-                                                        </li>
-                                                    <?php endforeach;?>
-                                                    <?php else:?>  
-                                                        <center><p>No modules found.</p></center>  
-                                                    <?php endif;?>     
-                                                </ul>-->
-                                                  <?php 
-                                                        echo format_modules($modules);
-                                                    ?>
+                                                
+                                                <?php echo format_modules($modules);?>
+                                                
                                             </div>
 
                                             <div class="form-group pull-right">
