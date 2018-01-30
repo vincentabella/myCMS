@@ -1,7 +1,4 @@
-# Codeigniter 3 with HMVC
+# myCMS - Codeigniter 3 CMS
 
-This is the combination between 3 CodeIgniter and HMVC Modular Extension (created by "wiredesignz").
+A simple and easy to use content management system built with Codeigniter 3 and HMVC Modular Extension (created by "wiredesignz").
 
-This version is already configured to work with HMVC, Eliminating the need to download the files HMVC on Bitbucket and copy to the Corresponding folders.
-
-Just download this version and start using.
