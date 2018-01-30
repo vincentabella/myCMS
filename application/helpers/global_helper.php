@@ -37,13 +37,27 @@ if (!function_exists('dump_exit')) {
 
 
 
-
+/**
+ * Format PHP Datetime to Date 
+ * @param $date as datetime format
+ * @return string January 30, 2017
+ * @uses global
+*/
 function formatDate($date){
     return date('F d, Y', strtotime($date));
 }
 
 
 
+
+
+
+/**
+ * Format PHP Datetime to Time 
+ * @param $date as datetime format
+ * @return string 7:00PM
+ * @uses global
+*/
 function formatTime($date){
     return date('h:iA', strtotime($date));
 }   
@@ -51,8 +65,13 @@ function formatTime($date){
 
 
 
+
+
 /**
  * Get Nested Menu > usage @ Admin Menu Items
+ * @param $parent_id
+ * @return string
+ * @uses admin > edit menu group items
 */
 function get_menu_nested($parent_id){
     $CI =& get_instance();
@@ -93,6 +112,16 @@ function get_menu_nested($parent_id){
 }
 
 
+
+
+
+
+/**
+ * Set Menus Name active state for tab
+ * @param $menu_type_id
+ * @return string
+ * @uses menus module
+*/
 function set_menu_active($menu_type_id){
     $CI =& get_instance();
     $uri_menutype = $CI->uri->segment(4);
@@ -102,8 +131,13 @@ function set_menu_active($menu_type_id){
 
 
 
+
+
 /**
  * Admin Navigation Menu 
+ * @param $parent_id
+ * @return string
+ * @uses admin menu navigation
 */
 function get_navigation_menu_nested($parent_id){
     $CI =& get_instance();
@@ -123,16 +157,25 @@ function get_navigation_menu_nested($parent_id){
                 </li>
             ';
             
-
             
             // Run recursive function
-            get_navigation_menu_nested($item->id);
+            //get_navigation_menu_nested($item->id);
             
         }
         echo "</ul></div>";
     }
 }
 
+
+
+
+
+/**
+ * Check Admin Navigation if parent has child
+ * @param $parent_id
+ * @return bool
+ * @uses admin navigation
+*/
 function navigation_menu_has_child($parent_id){
     $CI =& get_instance();
     $CI->load->model('menus_model');
@@ -143,10 +186,18 @@ function navigation_menu_has_child($parent_id){
         return FALSE;
     }
 }
-/* #END# Admin Navigation Menu*/
 
 
-// Set Content by Status
+
+
+
+
+/**
+ * Set Active State by Status
+ * @param $status, $str
+ * @return string
+ * @uses display content blog, pages
+*/
 function set_navigation_active($status, $str){
     $CI =& get_instance();
     $url_status = ($CI->uri->segment(4) == NULL ? 'publish':$CI->uri->segment(4)) ;
@@ -154,6 +205,16 @@ function set_navigation_active($status, $str){
 }
 
 
+
+
+
+
+/**
+ * Set Active State at Users Role
+ * @param $role, $str
+ * @return string
+ * @uses users list display
+*/
 function set_navigation_active_user($role, $str){
     $CI =& get_instance();
     $url_role = ($CI->uri->segment(4) == NULL ? 'all':$CI->uri->segment(4)) ;
@@ -163,8 +224,14 @@ function set_navigation_active_user($role, $str){
 
 
 
-/*
+
+
+
+/**
  * Set Status Color
+ * @param $status
+ * @return string
+ * @uses display of status, blog and pages
 */
 function set_status_color($status){
     switch($status){
@@ -186,8 +253,12 @@ function set_status_color($status){
 
 
 
+
+
 /**
  * Check if Trash Uri, then perform load delete permanently 
+ * @return strin
+ * @uses blog, pages delete button
 */
 function isTrashUri(){
     $CI =& get_instance();
@@ -196,8 +267,14 @@ function isTrashUri(){
 }
 
 
-/*
+
+
+
+/**
  * Limit Number of words helper
+ * @param $string, $numwords
+ * @return string
+ * @uses global
 */
 function limit_to_numwords($string, $numwords){
     $excerpt = explode(' ', $string, $numwords + 1);
@@ -209,6 +286,9 @@ function limit_to_numwords($string, $numwords){
 
     return $excerpt;
 }
+
+
+
 
 
 /**
