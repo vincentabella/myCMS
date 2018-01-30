@@ -88,7 +88,7 @@ $route['admin/pages/status/(:any)'] = 'page/admin/page/page_by_status/$1';
 $route['admin/pages/status/(:any)/(:num)'] = 'page/admin/page/page_by_status/$1/$2'; 
 
 // MENUS
-$route['admin/menus'] = 'menus/admin/menus/';
+$route['admin/menus'] = 'menus/admin/menus';
 $route['admin/menus/edit/(:num)'] = 'menus/admin/menus/edit_menu/$1';
 
 

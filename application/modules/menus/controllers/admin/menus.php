@@ -33,7 +33,7 @@ class Menus extends Admin_Controller {
     	//get first menu type details
     	$first_menu_id = $this->menu_type_model->get_min_menu_type();
         redirect('admin/menus/edit/'.$first_menu_id);
-        //dump('menu index controller');
+       
 
     	//$this->data['menu_type_data_first'] = $this->menu_type_model->get($first_menu_id);
     	// get menu items > first menu

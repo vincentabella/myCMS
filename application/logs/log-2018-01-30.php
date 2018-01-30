@@ -12074,3 +12074,1696 @@ DEBUG - 2018-01-30 17:20:09 --> File loaded: C:\xampp\htdocs\myCMS\application\v
 DEBUG - 2018-01-30 17:20:09 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
 INFO - 2018-01-30 17:20:09 --> Final output sent to browser
 DEBUG - 2018-01-30 17:20:09 --> Total execution time: 6.1754
+INFO - 2018-01-30 17:22:43 --> Config Class Initialized
+INFO - 2018-01-30 17:22:43 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:22:43 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:22:43 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:22:43 --> URI Class Initialized
+INFO - 2018-01-30 17:22:43 --> Router Class Initialized
+INFO - 2018-01-30 17:22:43 --> Output Class Initialized
+INFO - 2018-01-30 17:22:44 --> Security Class Initialized
+DEBUG - 2018-01-30 17:22:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:22:44 --> Input Class Initialized
+INFO - 2018-01-30 17:22:44 --> Language Class Initialized
+INFO - 2018-01-30 17:22:44 --> Language Class Initialized
+INFO - 2018-01-30 17:22:44 --> Config Class Initialized
+INFO - 2018-01-30 17:22:44 --> Loader Class Initialized
+INFO - 2018-01-30 17:22:44 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:22:44 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:22:44 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:22:44 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:22:44 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:22:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:22:45 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:22:45 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:22:45 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:22:45 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:22:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:22:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:22:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:22:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:22:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:22:46 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:22:46 --> Model Class Initialized
+INFO - 2018-01-30 17:22:46 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:22:46 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:22:46 --> Model Class Initialized
+DEBUG - 2018-01-30 17:22:46 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:22:46 --> Model Class Initialized
+DEBUG - 2018-01-30 17:22:46 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:22:46 --> Model Class Initialized
+DEBUG - 2018-01-30 17:22:46 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:22:46 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:22:47 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:22:47 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:22:47 --> Final output sent to browser
+DEBUG - 2018-01-30 17:22:47 --> Total execution time: 3.3679
+INFO - 2018-01-30 17:24:27 --> Config Class Initialized
+INFO - 2018-01-30 17:24:27 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:24:30 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:24:30 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:24:30 --> URI Class Initialized
+INFO - 2018-01-30 17:24:30 --> Router Class Initialized
+INFO - 2018-01-30 17:24:30 --> Output Class Initialized
+INFO - 2018-01-30 17:24:31 --> Security Class Initialized
+DEBUG - 2018-01-30 17:24:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:24:31 --> Input Class Initialized
+INFO - 2018-01-30 17:24:31 --> Language Class Initialized
+INFO - 2018-01-30 17:24:31 --> Language Class Initialized
+INFO - 2018-01-30 17:24:31 --> Config Class Initialized
+INFO - 2018-01-30 17:24:31 --> Loader Class Initialized
+INFO - 2018-01-30 17:24:31 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:24:31 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:24:31 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:24:31 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:24:31 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:24:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:24:31 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:24:31 --> Blog MX_Controller Initialized
+INFO - 2018-01-30 17:24:31 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:24:31 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:24:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:24:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:24:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:24:32 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:32 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:24:32 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:32 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_category_model.php
+INFO - 2018-01-30 17:24:32 --> Model Class Initialized
+INFO - 2018-01-30 17:24:32 --> Helper loaded: blog/blog_helper
+DEBUG - 2018-01-30 17:24:32 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:24:32 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/views/admin/index.php
+DEBUG - 2018-01-30 17:24:32 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:24:32 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:24:32 --> Final output sent to browser
+DEBUG - 2018-01-30 17:24:32 --> Total execution time: 5.2913
+INFO - 2018-01-30 17:24:35 --> Config Class Initialized
+INFO - 2018-01-30 17:24:35 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:24:35 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:24:35 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:24:35 --> URI Class Initialized
+INFO - 2018-01-30 17:24:35 --> Router Class Initialized
+INFO - 2018-01-30 17:24:35 --> Output Class Initialized
+INFO - 2018-01-30 17:24:35 --> Security Class Initialized
+DEBUG - 2018-01-30 17:24:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:24:35 --> Input Class Initialized
+INFO - 2018-01-30 17:24:35 --> Language Class Initialized
+INFO - 2018-01-30 17:24:35 --> Language Class Initialized
+INFO - 2018-01-30 17:24:35 --> Config Class Initialized
+INFO - 2018-01-30 17:24:35 --> Loader Class Initialized
+INFO - 2018-01-30 17:24:35 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:24:35 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:24:35 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:24:35 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:24:35 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:24:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:24:36 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:24:36 --> Blog MX_Controller Initialized
+INFO - 2018-01-30 17:24:36 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:24:36 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:24:36 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:36 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:24:36 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:36 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:24:36 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:36 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:24:36 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:36 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:24:36 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:36 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_category_model.php
+INFO - 2018-01-30 17:24:36 --> Model Class Initialized
+INFO - 2018-01-30 17:24:37 --> Helper loaded: blog/blog_helper
+DEBUG - 2018-01-30 17:24:37 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:24:37 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/views/admin/categories.php
+DEBUG - 2018-01-30 17:24:37 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:24:37 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:24:37 --> Final output sent to browser
+DEBUG - 2018-01-30 17:24:37 --> Total execution time: 1.8326
+INFO - 2018-01-30 17:24:39 --> Config Class Initialized
+INFO - 2018-01-30 17:24:43 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:24:43 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:24:43 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:24:43 --> URI Class Initialized
+INFO - 2018-01-30 17:24:43 --> Router Class Initialized
+INFO - 2018-01-30 17:24:43 --> Output Class Initialized
+INFO - 2018-01-30 17:24:43 --> Security Class Initialized
+DEBUG - 2018-01-30 17:24:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:24:44 --> Input Class Initialized
+INFO - 2018-01-30 17:24:44 --> Language Class Initialized
+INFO - 2018-01-30 17:24:44 --> Language Class Initialized
+INFO - 2018-01-30 17:24:44 --> Config Class Initialized
+INFO - 2018-01-30 17:24:44 --> Loader Class Initialized
+INFO - 2018-01-30 17:24:44 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:24:44 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:24:44 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:24:44 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:24:44 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:24:44 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:24:44 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:24:44 --> Blog MX_Controller Initialized
+INFO - 2018-01-30 17:24:44 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:24:44 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:24:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:44 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:24:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:44 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:24:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:44 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:24:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:44 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:24:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_category_model.php
+INFO - 2018-01-30 17:24:45 --> Model Class Initialized
+INFO - 2018-01-30 17:24:45 --> Helper loaded: blog/blog_helper
+DEBUG - 2018-01-30 17:24:45 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:24:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/views/admin/edit_category.php
+DEBUG - 2018-01-30 17:24:45 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:24:45 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:24:45 --> Final output sent to browser
+DEBUG - 2018-01-30 17:24:45 --> Total execution time: 6.2283
+INFO - 2018-01-30 17:24:53 --> Config Class Initialized
+INFO - 2018-01-30 17:24:53 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:24:53 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:24:53 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:24:53 --> URI Class Initialized
+INFO - 2018-01-30 17:24:53 --> Router Class Initialized
+INFO - 2018-01-30 17:24:53 --> Output Class Initialized
+INFO - 2018-01-30 17:24:53 --> Security Class Initialized
+DEBUG - 2018-01-30 17:24:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:24:53 --> Input Class Initialized
+INFO - 2018-01-30 17:24:53 --> Language Class Initialized
+INFO - 2018-01-30 17:24:53 --> Language Class Initialized
+INFO - 2018-01-30 17:24:53 --> Config Class Initialized
+INFO - 2018-01-30 17:24:54 --> Loader Class Initialized
+INFO - 2018-01-30 17:24:54 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:24:54 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:24:54 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:24:54 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:24:54 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:24:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:24:54 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:24:54 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:24:54 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:24:54 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:24:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:24:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:24:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:24:54 --> Model Class Initialized
+INFO - 2018-01-30 17:24:54 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:24:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:24:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:24:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:24:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:24:54 --> Model Class Initialized
+INFO - 2018-01-30 17:24:55 --> Config Class Initialized
+INFO - 2018-01-30 17:24:55 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:24:55 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:24:55 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:24:55 --> URI Class Initialized
+INFO - 2018-01-30 17:24:55 --> Router Class Initialized
+INFO - 2018-01-30 17:24:55 --> Output Class Initialized
+INFO - 2018-01-30 17:24:55 --> Security Class Initialized
+DEBUG - 2018-01-30 17:24:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:24:55 --> Input Class Initialized
+INFO - 2018-01-30 17:24:55 --> Language Class Initialized
+INFO - 2018-01-30 17:24:55 --> Language Class Initialized
+INFO - 2018-01-30 17:25:00 --> Config Class Initialized
+INFO - 2018-01-30 17:25:00 --> Loader Class Initialized
+INFO - 2018-01-30 17:25:00 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:25:00 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:25:00 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:25:00 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:25:00 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:25:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:25:00 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:25:00 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:25:00 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:25:00 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:25:00 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:00 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:25:00 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:00 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:25:00 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:00 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:25:00 --> Model Class Initialized
+INFO - 2018-01-30 17:25:01 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:25:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:25:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:25:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:25:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:01 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:25:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:25:01 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:25:01 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:25:01 --> Final output sent to browser
+DEBUG - 2018-01-30 17:25:01 --> Total execution time: 6.1132
+INFO - 2018-01-30 17:25:22 --> Config Class Initialized
+INFO - 2018-01-30 17:25:22 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:25:22 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:25:22 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:25:22 --> URI Class Initialized
+INFO - 2018-01-30 17:25:22 --> Router Class Initialized
+INFO - 2018-01-30 17:25:22 --> Output Class Initialized
+INFO - 2018-01-30 17:25:22 --> Security Class Initialized
+DEBUG - 2018-01-30 17:25:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:25:22 --> Input Class Initialized
+INFO - 2018-01-30 17:25:22 --> Language Class Initialized
+INFO - 2018-01-30 17:25:22 --> Language Class Initialized
+INFO - 2018-01-30 17:25:22 --> Config Class Initialized
+INFO - 2018-01-30 17:25:22 --> Loader Class Initialized
+INFO - 2018-01-30 17:25:22 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:25:23 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:25:23 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:25:23 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:25:23 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:25:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:25:23 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:25:23 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:25:23 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:25:23 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:25:23 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:23 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:25:23 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:23 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:25:23 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:23 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:25:23 --> Model Class Initialized
+INFO - 2018-01-30 17:25:23 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:25:23 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:25:23 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:23 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:25:23 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:23 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:25:23 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:23 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:25:24 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:25:24 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:25:24 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:25:24 --> Final output sent to browser
+DEBUG - 2018-01-30 17:25:24 --> Total execution time: 1.5435
+INFO - 2018-01-30 17:25:42 --> Config Class Initialized
+INFO - 2018-01-30 17:25:42 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:25:42 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:25:42 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:25:43 --> URI Class Initialized
+INFO - 2018-01-30 17:25:43 --> Router Class Initialized
+INFO - 2018-01-30 17:25:43 --> Output Class Initialized
+INFO - 2018-01-30 17:25:43 --> Security Class Initialized
+DEBUG - 2018-01-30 17:25:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:25:43 --> Input Class Initialized
+INFO - 2018-01-30 17:25:43 --> Language Class Initialized
+INFO - 2018-01-30 17:25:43 --> Language Class Initialized
+INFO - 2018-01-30 17:25:43 --> Config Class Initialized
+INFO - 2018-01-30 17:25:43 --> Loader Class Initialized
+INFO - 2018-01-30 17:25:43 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:25:43 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:25:43 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:25:43 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:25:43 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:25:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:25:43 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:25:43 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:25:43 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:25:43 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:25:43 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:43 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:25:43 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:43 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:25:43 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:43 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:25:43 --> Model Class Initialized
+INFO - 2018-01-30 17:25:43 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:25:43 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:25:43 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:43 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:25:43 --> Model Class Initialized
+DEBUG - 2018-01-30 17:25:43 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:25:43 --> Model Class Initialized
+INFO - 2018-01-30 17:25:43 --> Final output sent to browser
+DEBUG - 2018-01-30 17:25:43 --> Total execution time: 1.1107
+INFO - 2018-01-30 17:26:06 --> Config Class Initialized
+INFO - 2018-01-30 17:26:06 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:26:06 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:26:06 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:26:06 --> URI Class Initialized
+INFO - 2018-01-30 17:26:06 --> Router Class Initialized
+INFO - 2018-01-30 17:26:06 --> Output Class Initialized
+INFO - 2018-01-30 17:26:06 --> Security Class Initialized
+DEBUG - 2018-01-30 17:26:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:26:06 --> Input Class Initialized
+INFO - 2018-01-30 17:26:06 --> Language Class Initialized
+INFO - 2018-01-30 17:26:06 --> Language Class Initialized
+INFO - 2018-01-30 17:26:06 --> Config Class Initialized
+INFO - 2018-01-30 17:26:06 --> Loader Class Initialized
+INFO - 2018-01-30 17:26:06 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:26:06 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:26:06 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:26:06 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:26:06 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:26:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:26:06 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:26:06 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:26:06 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:26:06 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:26:06 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:06 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:26:06 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:26:07 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:26:07 --> Model Class Initialized
+INFO - 2018-01-30 17:26:07 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:26:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:26:07 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:26:07 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:26:07 --> Model Class Initialized
+INFO - 2018-01-30 17:26:07 --> Final output sent to browser
+DEBUG - 2018-01-30 17:26:07 --> Total execution time: 1.3570
+INFO - 2018-01-30 17:26:08 --> Config Class Initialized
+INFO - 2018-01-30 17:26:08 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:26:08 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:26:08 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:26:08 --> URI Class Initialized
+INFO - 2018-01-30 17:26:09 --> Router Class Initialized
+INFO - 2018-01-30 17:26:09 --> Output Class Initialized
+INFO - 2018-01-30 17:26:10 --> Security Class Initialized
+DEBUG - 2018-01-30 17:26:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:26:10 --> Input Class Initialized
+INFO - 2018-01-30 17:26:10 --> Language Class Initialized
+INFO - 2018-01-30 17:26:10 --> Language Class Initialized
+INFO - 2018-01-30 17:26:10 --> Config Class Initialized
+INFO - 2018-01-30 17:26:10 --> Loader Class Initialized
+INFO - 2018-01-30 17:26:10 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:26:10 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:26:10 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:26:10 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:26:10 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:26:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:26:10 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:26:10 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:26:10 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:26:10 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:26:10 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:10 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:26:10 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:10 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:26:10 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:10 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:26:10 --> Model Class Initialized
+INFO - 2018-01-30 17:26:10 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:26:10 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:26:10 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:10 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:26:10 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:10 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:26:10 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:10 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:26:11 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:26:11 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:26:11 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:26:11 --> Final output sent to browser
+DEBUG - 2018-01-30 17:26:11 --> Total execution time: 2.2599
+INFO - 2018-01-30 17:26:13 --> Config Class Initialized
+INFO - 2018-01-30 17:26:13 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:26:13 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:26:13 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:26:13 --> URI Class Initialized
+INFO - 2018-01-30 17:26:13 --> Router Class Initialized
+INFO - 2018-01-30 17:26:13 --> Output Class Initialized
+INFO - 2018-01-30 17:26:13 --> Security Class Initialized
+DEBUG - 2018-01-30 17:26:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:26:13 --> Input Class Initialized
+INFO - 2018-01-30 17:26:13 --> Language Class Initialized
+INFO - 2018-01-30 17:26:13 --> Language Class Initialized
+INFO - 2018-01-30 17:26:13 --> Config Class Initialized
+INFO - 2018-01-30 17:26:13 --> Loader Class Initialized
+INFO - 2018-01-30 17:26:13 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:26:13 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:26:13 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:26:13 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:26:13 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:26:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:26:14 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:26:14 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:26:14 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:26:14 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:26:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:26:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:26:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:26:19 --> Model Class Initialized
+INFO - 2018-01-30 17:26:19 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:26:19 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:26:19 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:19 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:26:19 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:19 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:26:19 --> Model Class Initialized
+INFO - 2018-01-30 17:26:19 --> Final output sent to browser
+DEBUG - 2018-01-30 17:26:19 --> Total execution time: 5.9797
+INFO - 2018-01-30 17:26:23 --> Config Class Initialized
+INFO - 2018-01-30 17:26:23 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:26:23 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:26:23 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:26:23 --> URI Class Initialized
+INFO - 2018-01-30 17:26:23 --> Router Class Initialized
+INFO - 2018-01-30 17:26:23 --> Output Class Initialized
+INFO - 2018-01-30 17:26:23 --> Security Class Initialized
+DEBUG - 2018-01-30 17:26:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:26:23 --> Input Class Initialized
+INFO - 2018-01-30 17:26:23 --> Language Class Initialized
+INFO - 2018-01-30 17:26:23 --> Language Class Initialized
+INFO - 2018-01-30 17:26:23 --> Config Class Initialized
+INFO - 2018-01-30 17:26:23 --> Loader Class Initialized
+INFO - 2018-01-30 17:26:23 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:26:23 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:26:23 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:26:23 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:26:23 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:26:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:26:23 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:26:23 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:26:23 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:26:23 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:26:24 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:24 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:26:24 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:24 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:26:24 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:24 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:26:24 --> Model Class Initialized
+INFO - 2018-01-30 17:26:24 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:26:24 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:26:24 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:24 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:26:24 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:24 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:26:24 --> Model Class Initialized
+INFO - 2018-01-30 17:26:25 --> Final output sent to browser
+DEBUG - 2018-01-30 17:26:25 --> Total execution time: 1.8679
+INFO - 2018-01-30 17:26:30 --> Config Class Initialized
+INFO - 2018-01-30 17:26:30 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:26:30 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:26:30 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:26:30 --> URI Class Initialized
+INFO - 2018-01-30 17:26:30 --> Router Class Initialized
+INFO - 2018-01-30 17:26:30 --> Output Class Initialized
+INFO - 2018-01-30 17:26:30 --> Security Class Initialized
+DEBUG - 2018-01-30 17:26:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:26:30 --> Input Class Initialized
+INFO - 2018-01-30 17:26:30 --> Language Class Initialized
+INFO - 2018-01-30 17:26:30 --> Language Class Initialized
+INFO - 2018-01-30 17:26:30 --> Config Class Initialized
+INFO - 2018-01-30 17:26:30 --> Loader Class Initialized
+INFO - 2018-01-30 17:26:30 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:26:30 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:26:30 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:26:30 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:26:31 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:26:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:26:31 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:26:31 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:26:31 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:26:31 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:26:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:26:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:26:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:26:31 --> Model Class Initialized
+INFO - 2018-01-30 17:26:31 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:26:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:26:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:26:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:26:31 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:31 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:26:31 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:26:31 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:26:31 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:26:31 --> Final output sent to browser
+DEBUG - 2018-01-30 17:26:31 --> Total execution time: 1.3212
+INFO - 2018-01-30 17:26:34 --> Config Class Initialized
+INFO - 2018-01-30 17:26:34 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:26:34 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:26:34 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:26:34 --> URI Class Initialized
+INFO - 2018-01-30 17:26:34 --> Router Class Initialized
+INFO - 2018-01-30 17:26:34 --> Output Class Initialized
+INFO - 2018-01-30 17:26:34 --> Security Class Initialized
+DEBUG - 2018-01-30 17:26:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:26:34 --> Input Class Initialized
+INFO - 2018-01-30 17:26:34 --> Language Class Initialized
+INFO - 2018-01-30 17:26:34 --> Language Class Initialized
+INFO - 2018-01-30 17:26:34 --> Config Class Initialized
+INFO - 2018-01-30 17:26:34 --> Loader Class Initialized
+INFO - 2018-01-30 17:26:34 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:26:34 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:26:34 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:26:34 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:26:34 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:26:34 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:26:34 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:26:34 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:26:34 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:26:34 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:26:34 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:34 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:26:34 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:35 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:26:35 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:35 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:26:35 --> Model Class Initialized
+INFO - 2018-01-30 17:26:35 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:26:35 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:26:35 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:35 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:26:35 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:35 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:26:35 --> Model Class Initialized
+INFO - 2018-01-30 17:26:35 --> Final output sent to browser
+DEBUG - 2018-01-30 17:26:35 --> Total execution time: 1.3502
+INFO - 2018-01-30 17:26:41 --> Config Class Initialized
+INFO - 2018-01-30 17:26:41 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:26:41 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:26:41 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:26:41 --> URI Class Initialized
+INFO - 2018-01-30 17:26:41 --> Router Class Initialized
+INFO - 2018-01-30 17:26:41 --> Output Class Initialized
+INFO - 2018-01-30 17:26:41 --> Security Class Initialized
+DEBUG - 2018-01-30 17:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:26:41 --> Input Class Initialized
+INFO - 2018-01-30 17:26:41 --> Language Class Initialized
+INFO - 2018-01-30 17:26:41 --> Language Class Initialized
+INFO - 2018-01-30 17:26:41 --> Config Class Initialized
+INFO - 2018-01-30 17:26:41 --> Loader Class Initialized
+INFO - 2018-01-30 17:26:41 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:26:41 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:26:41 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:26:41 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:26:42 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:26:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:26:42 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:26:42 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:26:42 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:26:42 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:26:42 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:42 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:26:42 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:42 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:26:42 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:42 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:26:42 --> Model Class Initialized
+INFO - 2018-01-30 17:26:42 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:26:42 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:26:42 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:42 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:26:42 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:42 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:26:42 --> Model Class Initialized
+INFO - 2018-01-30 17:26:43 --> Final output sent to browser
+DEBUG - 2018-01-30 17:26:43 --> Total execution time: 2.0125
+INFO - 2018-01-30 17:26:47 --> Config Class Initialized
+INFO - 2018-01-30 17:26:47 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:26:47 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:26:47 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:26:47 --> URI Class Initialized
+INFO - 2018-01-30 17:26:47 --> Router Class Initialized
+INFO - 2018-01-30 17:26:47 --> Output Class Initialized
+INFO - 2018-01-30 17:26:47 --> Security Class Initialized
+DEBUG - 2018-01-30 17:26:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:26:47 --> Input Class Initialized
+INFO - 2018-01-30 17:26:47 --> Language Class Initialized
+INFO - 2018-01-30 17:26:48 --> Language Class Initialized
+INFO - 2018-01-30 17:26:48 --> Config Class Initialized
+INFO - 2018-01-30 17:26:48 --> Loader Class Initialized
+INFO - 2018-01-30 17:26:48 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:26:48 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:26:48 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:26:48 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:26:48 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:26:48 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:26:48 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:26:48 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:26:48 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:26:48 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:26:48 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:48 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:26:48 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:48 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:26:48 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:49 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:26:49 --> Model Class Initialized
+INFO - 2018-01-30 17:26:49 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:26:49 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:26:49 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:49 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:26:49 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:49 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:26:49 --> Model Class Initialized
+DEBUG - 2018-01-30 17:26:49 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:26:49 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:26:49 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:26:49 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:26:49 --> Final output sent to browser
+DEBUG - 2018-01-30 17:26:49 --> Total execution time: 1.9840
+INFO - 2018-01-30 17:26:55 --> Config Class Initialized
+INFO - 2018-01-30 17:26:55 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:26:55 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:26:55 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:26:55 --> URI Class Initialized
+INFO - 2018-01-30 17:26:55 --> Router Class Initialized
+INFO - 2018-01-30 17:26:55 --> Output Class Initialized
+INFO - 2018-01-30 17:26:55 --> Security Class Initialized
+DEBUG - 2018-01-30 17:26:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:26:55 --> Input Class Initialized
+INFO - 2018-01-30 17:26:55 --> Language Class Initialized
+INFO - 2018-01-30 17:26:55 --> Language Class Initialized
+INFO - 2018-01-30 17:27:00 --> Config Class Initialized
+INFO - 2018-01-30 17:27:00 --> Loader Class Initialized
+INFO - 2018-01-30 17:27:00 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:27:00 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:27:00 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:27:00 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:27:00 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:27:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:27:00 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:27:00 --> Blog MX_Controller Initialized
+INFO - 2018-01-30 17:27:00 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:27:00 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:27:00 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:00 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:27:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:27:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:27:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:27:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_category_model.php
+INFO - 2018-01-30 17:27:01 --> Model Class Initialized
+INFO - 2018-01-30 17:27:01 --> Helper loaded: blog/blog_helper
+DEBUG - 2018-01-30 17:27:01 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:27:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/views/admin/index.php
+DEBUG - 2018-01-30 17:27:01 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:27:01 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:27:01 --> Final output sent to browser
+DEBUG - 2018-01-30 17:27:01 --> Total execution time: 6.3944
+INFO - 2018-01-30 17:27:05 --> Config Class Initialized
+INFO - 2018-01-30 17:27:05 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:27:05 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:27:05 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:27:05 --> URI Class Initialized
+INFO - 2018-01-30 17:27:05 --> Router Class Initialized
+INFO - 2018-01-30 17:27:05 --> Output Class Initialized
+INFO - 2018-01-30 17:27:05 --> Security Class Initialized
+DEBUG - 2018-01-30 17:27:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:27:06 --> Input Class Initialized
+INFO - 2018-01-30 17:27:06 --> Language Class Initialized
+INFO - 2018-01-30 17:27:06 --> Language Class Initialized
+INFO - 2018-01-30 17:27:06 --> Config Class Initialized
+INFO - 2018-01-30 17:27:06 --> Loader Class Initialized
+INFO - 2018-01-30 17:27:06 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:27:06 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:27:06 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:27:06 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:27:06 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:27:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:27:06 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:27:06 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:27:06 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:27:06 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:27:06 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:27:07 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:27:07 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:27:07 --> Model Class Initialized
+INFO - 2018-01-30 17:27:07 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:27:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:27:07 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:27:07 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:07 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:27:07 --> Model Class Initialized
+INFO - 2018-01-30 17:27:14 --> Final output sent to browser
+DEBUG - 2018-01-30 17:27:14 --> Total execution time: 9.0821
+INFO - 2018-01-30 17:27:15 --> Config Class Initialized
+INFO - 2018-01-30 17:27:16 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:27:16 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:27:16 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:27:16 --> URI Class Initialized
+INFO - 2018-01-30 17:27:16 --> Router Class Initialized
+INFO - 2018-01-30 17:27:16 --> Output Class Initialized
+INFO - 2018-01-30 17:27:16 --> Security Class Initialized
+DEBUG - 2018-01-30 17:27:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:27:16 --> Input Class Initialized
+INFO - 2018-01-30 17:27:16 --> Language Class Initialized
+INFO - 2018-01-30 17:27:16 --> Language Class Initialized
+INFO - 2018-01-30 17:27:16 --> Config Class Initialized
+INFO - 2018-01-30 17:27:16 --> Loader Class Initialized
+INFO - 2018-01-30 17:27:16 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:27:16 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:27:16 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:27:16 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:27:16 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:27:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:27:16 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:27:16 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:27:16 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:27:16 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:27:17 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:17 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:27:17 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:17 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:27:17 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:17 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:27:17 --> Model Class Initialized
+INFO - 2018-01-30 17:27:17 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:27:17 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:27:17 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:17 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:27:17 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:17 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:27:17 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:17 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:27:17 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:27:17 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:27:17 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:27:17 --> Final output sent to browser
+DEBUG - 2018-01-30 17:27:17 --> Total execution time: 1.7033
+INFO - 2018-01-30 17:27:43 --> Config Class Initialized
+INFO - 2018-01-30 17:27:43 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:27:43 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:27:43 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:27:43 --> URI Class Initialized
+INFO - 2018-01-30 17:27:43 --> Router Class Initialized
+INFO - 2018-01-30 17:27:43 --> Output Class Initialized
+INFO - 2018-01-30 17:27:43 --> Security Class Initialized
+DEBUG - 2018-01-30 17:27:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:27:43 --> Input Class Initialized
+INFO - 2018-01-30 17:27:43 --> Language Class Initialized
+INFO - 2018-01-30 17:27:43 --> Language Class Initialized
+INFO - 2018-01-30 17:27:43 --> Config Class Initialized
+INFO - 2018-01-30 17:27:43 --> Loader Class Initialized
+INFO - 2018-01-30 17:27:43 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:27:43 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:27:43 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:27:43 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:27:43 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:27:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:27:43 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:27:43 --> Dashboard MX_Controller Initialized
+INFO - 2018-01-30 17:27:43 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:27:43 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:27:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:44 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:27:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:44 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:27:44 --> Model Class Initialized
+DEBUG - 2018-01-30 17:27:44 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:27:44 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/dashboard/views/dashboard.php
+DEBUG - 2018-01-30 17:27:44 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:27:44 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:27:44 --> Final output sent to browser
+DEBUG - 2018-01-30 17:27:44 --> Total execution time: 1.0016
+INFO - 2018-01-30 17:28:37 --> Config Class Initialized
+INFO - 2018-01-30 17:28:37 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:28:37 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:28:37 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:28:37 --> URI Class Initialized
+INFO - 2018-01-30 17:28:37 --> Router Class Initialized
+INFO - 2018-01-30 17:28:37 --> Output Class Initialized
+INFO - 2018-01-30 17:28:37 --> Security Class Initialized
+DEBUG - 2018-01-30 17:28:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:28:37 --> Input Class Initialized
+INFO - 2018-01-30 17:28:37 --> Language Class Initialized
+INFO - 2018-01-30 17:28:37 --> Language Class Initialized
+INFO - 2018-01-30 17:28:37 --> Config Class Initialized
+INFO - 2018-01-30 17:28:37 --> Loader Class Initialized
+INFO - 2018-01-30 17:28:37 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:28:37 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:28:37 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:28:37 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:28:37 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:28:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:28:38 --> Controller Class Initialized
+ERROR - 2018-01-30 17:28:38 --> Severity: Notice --> Uninitialized string offset: 0 C:\xampp\htdocs\myCMS\system\core\CodeIgniter.php 410
+ERROR - 2018-01-30 17:28:38 --> 404 Page Not Found: ../modules/menus/controllers/admin/Menus/
+INFO - 2018-01-30 17:29:16 --> Config Class Initialized
+INFO - 2018-01-30 17:29:16 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:29:16 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:29:16 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:29:16 --> URI Class Initialized
+INFO - 2018-01-30 17:29:17 --> Router Class Initialized
+INFO - 2018-01-30 17:29:17 --> Output Class Initialized
+INFO - 2018-01-30 17:29:17 --> Security Class Initialized
+DEBUG - 2018-01-30 17:29:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:29:17 --> Input Class Initialized
+INFO - 2018-01-30 17:29:17 --> Language Class Initialized
+INFO - 2018-01-30 17:29:17 --> Language Class Initialized
+INFO - 2018-01-30 17:29:17 --> Config Class Initialized
+INFO - 2018-01-30 17:29:17 --> Loader Class Initialized
+INFO - 2018-01-30 17:29:17 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:29:17 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:29:17 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:29:17 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:29:17 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:29:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:29:17 --> Controller Class Initialized
+ERROR - 2018-01-30 17:29:17 --> Severity: Notice --> Uninitialized string offset: 0 C:\xampp\htdocs\myCMS\system\core\CodeIgniter.php 410
+ERROR - 2018-01-30 17:29:17 --> 404 Page Not Found: ../modules/menus/controllers/admin/Menus/
+INFO - 2018-01-30 17:29:20 --> Config Class Initialized
+INFO - 2018-01-30 17:29:20 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:29:20 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:29:20 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:29:20 --> URI Class Initialized
+INFO - 2018-01-30 17:29:20 --> Router Class Initialized
+INFO - 2018-01-30 17:29:20 --> Output Class Initialized
+INFO - 2018-01-30 17:29:20 --> Security Class Initialized
+DEBUG - 2018-01-30 17:29:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:29:20 --> Input Class Initialized
+INFO - 2018-01-30 17:29:21 --> Language Class Initialized
+INFO - 2018-01-30 17:29:21 --> Language Class Initialized
+INFO - 2018-01-30 17:29:21 --> Config Class Initialized
+INFO - 2018-01-30 17:29:21 --> Loader Class Initialized
+INFO - 2018-01-30 17:29:21 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:29:21 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:29:21 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:29:21 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:29:21 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:29:21 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:29:21 --> Controller Class Initialized
+ERROR - 2018-01-30 17:29:21 --> Severity: Notice --> Uninitialized string offset: 0 C:\xampp\htdocs\myCMS\system\core\CodeIgniter.php 410
+ERROR - 2018-01-30 17:29:21 --> 404 Page Not Found: ../modules/menus/controllers/admin/Menus/
+INFO - 2018-01-30 17:29:57 --> Config Class Initialized
+INFO - 2018-01-30 17:29:57 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:29:57 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:29:57 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:29:57 --> URI Class Initialized
+INFO - 2018-01-30 17:29:58 --> Router Class Initialized
+INFO - 2018-01-30 17:29:58 --> Output Class Initialized
+INFO - 2018-01-30 17:29:58 --> Security Class Initialized
+DEBUG - 2018-01-30 17:29:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:29:58 --> Input Class Initialized
+INFO - 2018-01-30 17:29:58 --> Language Class Initialized
+INFO - 2018-01-30 17:29:58 --> Language Class Initialized
+INFO - 2018-01-30 17:29:58 --> Config Class Initialized
+INFO - 2018-01-30 17:29:58 --> Loader Class Initialized
+INFO - 2018-01-30 17:29:58 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:29:58 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:29:58 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:29:58 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:29:58 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:29:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:29:58 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:29:58 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:29:58 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:29:58 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:29:58 --> Model Class Initialized
+DEBUG - 2018-01-30 17:29:58 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:29:58 --> Model Class Initialized
+DEBUG - 2018-01-30 17:29:58 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:29:58 --> Model Class Initialized
+DEBUG - 2018-01-30 17:29:58 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:29:58 --> Model Class Initialized
+INFO - 2018-01-30 17:29:58 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:29:58 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:29:58 --> Model Class Initialized
+DEBUG - 2018-01-30 17:29:58 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:29:58 --> Model Class Initialized
+DEBUG - 2018-01-30 17:29:58 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:29:58 --> Model Class Initialized
+INFO - 2018-01-30 17:29:59 --> Final output sent to browser
+DEBUG - 2018-01-30 17:29:59 --> Total execution time: 1.1492
+INFO - 2018-01-30 17:30:00 --> Config Class Initialized
+INFO - 2018-01-30 17:30:00 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:30:00 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:30:00 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:30:00 --> URI Class Initialized
+INFO - 2018-01-30 17:30:00 --> Router Class Initialized
+INFO - 2018-01-30 17:30:00 --> Output Class Initialized
+INFO - 2018-01-30 17:30:01 --> Security Class Initialized
+DEBUG - 2018-01-30 17:30:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:30:01 --> Input Class Initialized
+INFO - 2018-01-30 17:30:01 --> Language Class Initialized
+INFO - 2018-01-30 17:30:01 --> Language Class Initialized
+INFO - 2018-01-30 17:30:01 --> Config Class Initialized
+INFO - 2018-01-30 17:30:01 --> Loader Class Initialized
+INFO - 2018-01-30 17:30:01 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:30:01 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:30:01 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:30:01 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:30:01 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:30:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:30:01 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:30:01 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:30:01 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:30:01 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:30:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:30:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:30:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:30:01 --> Model Class Initialized
+INFO - 2018-01-30 17:30:01 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:30:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:30:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:30:01 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:01 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:30:01 --> Model Class Initialized
+INFO - 2018-01-30 17:30:01 --> Final output sent to browser
+DEBUG - 2018-01-30 17:30:01 --> Total execution time: 1.0663
+INFO - 2018-01-30 17:30:37 --> Config Class Initialized
+INFO - 2018-01-30 17:30:37 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:30:37 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:30:37 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:30:37 --> URI Class Initialized
+INFO - 2018-01-30 17:30:37 --> Router Class Initialized
+INFO - 2018-01-30 17:30:37 --> Output Class Initialized
+INFO - 2018-01-30 17:30:37 --> Security Class Initialized
+DEBUG - 2018-01-30 17:30:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:30:37 --> Input Class Initialized
+INFO - 2018-01-30 17:30:37 --> Language Class Initialized
+INFO - 2018-01-30 17:30:37 --> Language Class Initialized
+INFO - 2018-01-30 17:30:37 --> Config Class Initialized
+INFO - 2018-01-30 17:30:37 --> Loader Class Initialized
+INFO - 2018-01-30 17:30:37 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:30:37 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:30:37 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:30:37 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:30:38 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:30:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:30:38 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:30:38 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:30:38 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:30:38 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:30:38 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:38 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:30:38 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:38 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:30:38 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:38 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:30:38 --> Model Class Initialized
+INFO - 2018-01-30 17:30:38 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:30:38 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:30:38 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:38 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:30:38 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:38 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:30:38 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:38 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:30:38 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:30:38 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:30:38 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:30:38 --> Final output sent to browser
+DEBUG - 2018-01-30 17:30:38 --> Total execution time: 1.2578
+INFO - 2018-01-30 17:30:49 --> Config Class Initialized
+INFO - 2018-01-30 17:30:49 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:30:49 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:30:49 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:30:50 --> URI Class Initialized
+INFO - 2018-01-30 17:30:50 --> Router Class Initialized
+INFO - 2018-01-30 17:30:50 --> Output Class Initialized
+INFO - 2018-01-30 17:30:50 --> Security Class Initialized
+DEBUG - 2018-01-30 17:30:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:30:50 --> Input Class Initialized
+INFO - 2018-01-30 17:30:50 --> Language Class Initialized
+INFO - 2018-01-30 17:30:50 --> Language Class Initialized
+INFO - 2018-01-30 17:30:50 --> Config Class Initialized
+INFO - 2018-01-30 17:30:50 --> Loader Class Initialized
+INFO - 2018-01-30 17:30:50 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:30:50 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:30:50 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:30:50 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:30:50 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:30:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:30:50 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:30:50 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:30:50 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:30:50 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:30:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:30:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:30:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:30:50 --> Model Class Initialized
+INFO - 2018-01-30 17:30:50 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:30:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:30:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:30:50 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:50 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:30:50 --> Model Class Initialized
+INFO - 2018-01-30 17:30:51 --> Final output sent to browser
+DEBUG - 2018-01-30 17:30:51 --> Total execution time: 1.4986
+INFO - 2018-01-30 17:30:52 --> Config Class Initialized
+INFO - 2018-01-30 17:30:52 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:30:52 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:30:52 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:30:52 --> URI Class Initialized
+INFO - 2018-01-30 17:30:52 --> Router Class Initialized
+INFO - 2018-01-30 17:30:52 --> Output Class Initialized
+INFO - 2018-01-30 17:30:52 --> Security Class Initialized
+DEBUG - 2018-01-30 17:30:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:30:52 --> Input Class Initialized
+INFO - 2018-01-30 17:30:52 --> Language Class Initialized
+INFO - 2018-01-30 17:30:52 --> Language Class Initialized
+INFO - 2018-01-30 17:30:52 --> Config Class Initialized
+INFO - 2018-01-30 17:30:52 --> Loader Class Initialized
+INFO - 2018-01-30 17:30:52 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:30:52 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:30:52 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:30:52 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:30:52 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:30:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:30:53 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:30:53 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:30:53 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:30:53 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:30:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:30:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:30:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:30:53 --> Model Class Initialized
+INFO - 2018-01-30 17:30:53 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:30:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:30:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:30:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:30:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:30:53 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:30:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:30:53 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:30:53 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:30:53 --> Final output sent to browser
+DEBUG - 2018-01-30 17:30:53 --> Total execution time: 1.3754
+INFO - 2018-01-30 17:31:17 --> Config Class Initialized
+INFO - 2018-01-30 17:31:17 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:31:17 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:31:17 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:31:17 --> URI Class Initialized
+INFO - 2018-01-30 17:31:17 --> Router Class Initialized
+INFO - 2018-01-30 17:31:17 --> Output Class Initialized
+INFO - 2018-01-30 17:31:17 --> Security Class Initialized
+DEBUG - 2018-01-30 17:31:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:31:17 --> Input Class Initialized
+INFO - 2018-01-30 17:31:17 --> Language Class Initialized
+INFO - 2018-01-30 17:31:17 --> Language Class Initialized
+INFO - 2018-01-30 17:31:17 --> Config Class Initialized
+INFO - 2018-01-30 17:31:17 --> Loader Class Initialized
+INFO - 2018-01-30 17:31:17 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:31:17 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:31:17 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:31:17 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:31:17 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:31:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:31:17 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:31:18 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:31:18 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:31:18 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:31:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:31:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:31:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:31:18 --> Model Class Initialized
+INFO - 2018-01-30 17:31:18 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:31:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:31:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:31:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:31:18 --> Model Class Initialized
+INFO - 2018-01-30 17:31:18 --> Final output sent to browser
+DEBUG - 2018-01-30 17:31:18 --> Total execution time: 1.2927
+INFO - 2018-01-30 17:31:19 --> Config Class Initialized
+INFO - 2018-01-30 17:31:19 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:31:19 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:31:19 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:31:19 --> URI Class Initialized
+INFO - 2018-01-30 17:31:19 --> Router Class Initialized
+INFO - 2018-01-30 17:31:19 --> Output Class Initialized
+INFO - 2018-01-30 17:31:19 --> Security Class Initialized
+DEBUG - 2018-01-30 17:31:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:31:19 --> Input Class Initialized
+INFO - 2018-01-30 17:31:19 --> Language Class Initialized
+INFO - 2018-01-30 17:31:19 --> Language Class Initialized
+INFO - 2018-01-30 17:31:20 --> Config Class Initialized
+INFO - 2018-01-30 17:31:20 --> Loader Class Initialized
+INFO - 2018-01-30 17:31:20 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:31:20 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:31:20 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:31:20 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:31:20 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:31:20 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:31:20 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:31:20 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:31:20 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:31:20 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:31:20 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:20 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:31:20 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:20 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:31:20 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:20 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:31:20 --> Model Class Initialized
+INFO - 2018-01-30 17:31:20 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:31:20 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:31:20 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:20 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:31:20 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:20 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:31:20 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:20 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:31:20 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:31:20 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:31:20 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:31:20 --> Final output sent to browser
+DEBUG - 2018-01-30 17:31:20 --> Total execution time: 1.2337
+INFO - 2018-01-30 17:31:24 --> Config Class Initialized
+INFO - 2018-01-30 17:31:24 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:31:24 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:31:24 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:31:24 --> URI Class Initialized
+INFO - 2018-01-30 17:31:24 --> Router Class Initialized
+INFO - 2018-01-30 17:31:24 --> Output Class Initialized
+INFO - 2018-01-30 17:31:25 --> Security Class Initialized
+DEBUG - 2018-01-30 17:31:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:31:25 --> Input Class Initialized
+INFO - 2018-01-30 17:31:25 --> Language Class Initialized
+INFO - 2018-01-30 17:31:25 --> Language Class Initialized
+INFO - 2018-01-30 17:31:29 --> Config Class Initialized
+INFO - 2018-01-30 17:31:29 --> Loader Class Initialized
+INFO - 2018-01-30 17:31:29 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:31:29 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:31:29 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:31:29 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:31:29 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:31:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:31:29 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:31:29 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:31:30 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:31:30 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:31:30 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:30 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:31:30 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:30 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:31:30 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:30 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:31:30 --> Model Class Initialized
+INFO - 2018-01-30 17:31:30 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:31:30 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:31:30 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:30 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:31:30 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:30 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:31:30 --> Model Class Initialized
+INFO - 2018-01-30 17:31:31 --> Final output sent to browser
+DEBUG - 2018-01-30 17:31:31 --> Total execution time: 7.1181
+INFO - 2018-01-30 17:31:33 --> Config Class Initialized
+INFO - 2018-01-30 17:31:33 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:31:33 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:31:33 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:31:33 --> URI Class Initialized
+INFO - 2018-01-30 17:31:33 --> Router Class Initialized
+INFO - 2018-01-30 17:31:33 --> Output Class Initialized
+INFO - 2018-01-30 17:31:33 --> Security Class Initialized
+DEBUG - 2018-01-30 17:31:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:31:33 --> Input Class Initialized
+INFO - 2018-01-30 17:31:33 --> Language Class Initialized
+INFO - 2018-01-30 17:31:33 --> Language Class Initialized
+INFO - 2018-01-30 17:31:33 --> Config Class Initialized
+INFO - 2018-01-30 17:31:33 --> Loader Class Initialized
+INFO - 2018-01-30 17:31:33 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:31:33 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:31:33 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:31:33 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:31:33 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:31:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:31:33 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:31:33 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:31:33 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:31:33 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:31:33 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:33 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:31:33 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:34 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:31:34 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:34 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:31:34 --> Model Class Initialized
+INFO - 2018-01-30 17:31:34 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:31:34 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:31:34 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:34 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:31:34 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:34 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:31:34 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:34 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:31:34 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:31:34 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:31:34 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:31:34 --> Final output sent to browser
+DEBUG - 2018-01-30 17:31:34 --> Total execution time: 1.5712
+INFO - 2018-01-30 17:31:41 --> Config Class Initialized
+INFO - 2018-01-30 17:31:41 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:31:41 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:31:41 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:31:41 --> URI Class Initialized
+INFO - 2018-01-30 17:31:42 --> Router Class Initialized
+INFO - 2018-01-30 17:31:42 --> Output Class Initialized
+INFO - 2018-01-30 17:31:42 --> Security Class Initialized
+DEBUG - 2018-01-30 17:31:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:31:42 --> Input Class Initialized
+INFO - 2018-01-30 17:31:42 --> Language Class Initialized
+INFO - 2018-01-30 17:31:42 --> Language Class Initialized
+INFO - 2018-01-30 17:31:42 --> Config Class Initialized
+INFO - 2018-01-30 17:31:42 --> Loader Class Initialized
+INFO - 2018-01-30 17:31:42 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:31:42 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:31:42 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:31:42 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:31:42 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:31:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:31:42 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:31:42 --> Themes MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:42 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/page/controllers/Page.php
+DEBUG - 2018-01-30 17:31:42 --> Page MX_Controller Initialized
+INFO - 2018-01-30 17:31:42 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:42 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:31:42 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:42 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/blog/controllers/Blog.php
+DEBUG - 2018-01-30 17:31:42 --> Blog MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:42 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:31:42 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:42 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/menus/controllers/Menus.php
+DEBUG - 2018-01-30 17:31:42 --> Menus MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:42 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:31:42 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:42 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:31:42 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:42 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/header.php
+DEBUG - 2018-01-30 17:31:42 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/includes/main-menu.php
+DEBUG - 2018-01-30 17:31:43 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/footer.php
+DEBUG - 2018-01-30 17:31:43 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/post.php
+INFO - 2018-01-30 17:31:43 --> Final output sent to browser
+DEBUG - 2018-01-30 17:31:43 --> Total execution time: 1.1897
+INFO - 2018-01-30 17:31:44 --> Config Class Initialized
+INFO - 2018-01-30 17:31:44 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:31:44 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:31:44 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:31:45 --> URI Class Initialized
+INFO - 2018-01-30 17:31:45 --> Router Class Initialized
+INFO - 2018-01-30 17:31:45 --> Output Class Initialized
+INFO - 2018-01-30 17:31:45 --> Security Class Initialized
+DEBUG - 2018-01-30 17:31:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:31:45 --> Input Class Initialized
+INFO - 2018-01-30 17:31:45 --> Language Class Initialized
+INFO - 2018-01-30 17:31:45 --> Language Class Initialized
+INFO - 2018-01-30 17:31:45 --> Config Class Initialized
+INFO - 2018-01-30 17:31:45 --> Loader Class Initialized
+INFO - 2018-01-30 17:31:45 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:31:45 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:31:45 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:31:45 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:31:45 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:31:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:31:45 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:31:45 --> Themes MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:45 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/page/controllers/Page.php
+DEBUG - 2018-01-30 17:31:45 --> Page MX_Controller Initialized
+INFO - 2018-01-30 17:31:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:31:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:45 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/blog/controllers/Blog.php
+DEBUG - 2018-01-30 17:31:45 --> Blog MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:31:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:45 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/menus/controllers/Menus.php
+DEBUG - 2018-01-30 17:31:45 --> Menus MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:31:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:45 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:31:45 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:46 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/header.php
+DEBUG - 2018-01-30 17:31:46 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/includes/main-menu.php
+DEBUG - 2018-01-30 17:31:46 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/footer.php
+DEBUG - 2018-01-30 17:31:46 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/category.php
+INFO - 2018-01-30 17:31:46 --> Final output sent to browser
+DEBUG - 2018-01-30 17:31:46 --> Total execution time: 1.2178
+INFO - 2018-01-30 17:31:53 --> Config Class Initialized
+INFO - 2018-01-30 17:31:53 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:31:53 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:31:53 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:31:53 --> URI Class Initialized
+INFO - 2018-01-30 17:31:53 --> Router Class Initialized
+INFO - 2018-01-30 17:31:53 --> Output Class Initialized
+INFO - 2018-01-30 17:31:53 --> Security Class Initialized
+DEBUG - 2018-01-30 17:31:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:31:53 --> Input Class Initialized
+INFO - 2018-01-30 17:31:53 --> Language Class Initialized
+INFO - 2018-01-30 17:31:53 --> Language Class Initialized
+INFO - 2018-01-30 17:31:53 --> Config Class Initialized
+INFO - 2018-01-30 17:31:53 --> Loader Class Initialized
+INFO - 2018-01-30 17:31:53 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:31:53 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:31:53 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:31:53 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:31:53 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:31:53 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:31:53 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:31:53 --> Themes MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:53 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/page/controllers/Page.php
+DEBUG - 2018-01-30 17:31:53 --> Page MX_Controller Initialized
+INFO - 2018-01-30 17:31:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:31:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:53 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/blog/controllers/Blog.php
+DEBUG - 2018-01-30 17:31:53 --> Blog MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:31:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:54 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/menus/controllers/Menus.php
+DEBUG - 2018-01-30 17:31:54 --> Menus MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:31:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:31:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:54 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/header.php
+DEBUG - 2018-01-30 17:31:54 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/includes/main-menu.php
+DEBUG - 2018-01-30 17:31:54 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/footer.php
+DEBUG - 2018-01-30 17:31:54 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/page.php
+INFO - 2018-01-30 17:31:54 --> Final output sent to browser
+DEBUG - 2018-01-30 17:31:54 --> Total execution time: 1.3313
+INFO - 2018-01-30 17:31:56 --> Config Class Initialized
+INFO - 2018-01-30 17:31:56 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:31:56 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:31:56 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:31:56 --> URI Class Initialized
+INFO - 2018-01-30 17:31:56 --> Router Class Initialized
+INFO - 2018-01-30 17:31:56 --> Output Class Initialized
+INFO - 2018-01-30 17:31:56 --> Security Class Initialized
+DEBUG - 2018-01-30 17:31:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:31:56 --> Input Class Initialized
+INFO - 2018-01-30 17:31:56 --> Language Class Initialized
+INFO - 2018-01-30 17:31:56 --> Language Class Initialized
+INFO - 2018-01-30 17:31:56 --> Config Class Initialized
+INFO - 2018-01-30 17:31:56 --> Loader Class Initialized
+INFO - 2018-01-30 17:31:56 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:31:56 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:31:56 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:31:56 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:31:56 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:31:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:31:56 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:31:56 --> Themes MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:56 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/page/controllers/Page.php
+DEBUG - 2018-01-30 17:31:56 --> Page MX_Controller Initialized
+INFO - 2018-01-30 17:31:56 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:56 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:31:56 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:56 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/blog/controllers/Blog.php
+DEBUG - 2018-01-30 17:31:57 --> Blog MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:57 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:31:57 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:57 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/menus/controllers/Menus.php
+DEBUG - 2018-01-30 17:31:57 --> Menus MX_Controller Initialized
+DEBUG - 2018-01-30 17:31:57 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:31:57 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:57 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:31:57 --> Model Class Initialized
+DEBUG - 2018-01-30 17:31:57 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/header.php
+DEBUG - 2018-01-30 17:31:57 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/includes/main-menu.php
+DEBUG - 2018-01-30 17:31:57 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/footer.php
+DEBUG - 2018-01-30 17:31:57 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/category.php
+INFO - 2018-01-30 17:31:57 --> Final output sent to browser
+DEBUG - 2018-01-30 17:31:57 --> Total execution time: 1.5663
+INFO - 2018-01-30 17:34:23 --> Config Class Initialized
+INFO - 2018-01-30 17:34:23 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:34:23 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:34:23 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:34:23 --> URI Class Initialized
+INFO - 2018-01-30 17:34:23 --> Router Class Initialized
+INFO - 2018-01-30 17:34:23 --> Output Class Initialized
+INFO - 2018-01-30 17:34:23 --> Security Class Initialized
+DEBUG - 2018-01-30 17:34:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:34:23 --> Input Class Initialized
+INFO - 2018-01-30 17:34:23 --> Language Class Initialized
+INFO - 2018-01-30 17:34:23 --> Language Class Initialized
+INFO - 2018-01-30 17:34:23 --> Config Class Initialized
+INFO - 2018-01-30 17:34:24 --> Loader Class Initialized
+INFO - 2018-01-30 17:34:24 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:34:24 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:34:24 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:34:24 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:34:24 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:34:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:34:24 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:34:24 --> Themes MX_Controller Initialized
+DEBUG - 2018-01-30 17:34:24 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/page/controllers/Page.php
+DEBUG - 2018-01-30 17:34:24 --> Page MX_Controller Initialized
+INFO - 2018-01-30 17:34:24 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:24 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:34:24 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:24 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/blog/controllers/Blog.php
+DEBUG - 2018-01-30 17:34:24 --> Blog MX_Controller Initialized
+DEBUG - 2018-01-30 17:34:24 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:34:24 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:24 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/menus/controllers/Menus.php
+DEBUG - 2018-01-30 17:34:25 --> Menus MX_Controller Initialized
+DEBUG - 2018-01-30 17:34:25 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:34:25 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:25 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:34:25 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:25 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/header.php
+DEBUG - 2018-01-30 17:34:25 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/includes/main-menu.php
+DEBUG - 2018-01-30 17:34:25 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/footer.php
+DEBUG - 2018-01-30 17:34:25 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/category.php
+INFO - 2018-01-30 17:34:25 --> Final output sent to browser
+DEBUG - 2018-01-30 17:34:25 --> Total execution time: 2.0283
+INFO - 2018-01-30 17:34:52 --> Config Class Initialized
+INFO - 2018-01-30 17:34:52 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:34:52 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:34:52 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:34:52 --> URI Class Initialized
+INFO - 2018-01-30 17:34:52 --> Router Class Initialized
+INFO - 2018-01-30 17:34:52 --> Output Class Initialized
+INFO - 2018-01-30 17:34:52 --> Security Class Initialized
+DEBUG - 2018-01-30 17:34:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:34:52 --> Input Class Initialized
+INFO - 2018-01-30 17:34:52 --> Language Class Initialized
+INFO - 2018-01-30 17:34:52 --> Language Class Initialized
+INFO - 2018-01-30 17:34:52 --> Config Class Initialized
+INFO - 2018-01-30 17:34:53 --> Loader Class Initialized
+INFO - 2018-01-30 17:34:53 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:34:53 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:34:53 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:34:53 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:34:53 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:34:53 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:34:53 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:34:53 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:34:53 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:34:53 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:34:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:34:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:53 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:34:53 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:34:54 --> Model Class Initialized
+INFO - 2018-01-30 17:34:54 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:34:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:34:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:34:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:34:54 --> Model Class Initialized
+DEBUG - 2018-01-30 17:34:54 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:34:54 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:34:54 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:34:54 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:34:54 --> Final output sent to browser
+DEBUG - 2018-01-30 17:34:54 --> Total execution time: 2.1854
+INFO - 2018-01-30 17:38:18 --> Config Class Initialized
+INFO - 2018-01-30 17:38:18 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:38:18 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:38:18 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:38:18 --> URI Class Initialized
+INFO - 2018-01-30 17:38:18 --> Router Class Initialized
+INFO - 2018-01-30 17:38:18 --> Output Class Initialized
+INFO - 2018-01-30 17:38:18 --> Security Class Initialized
+DEBUG - 2018-01-30 17:38:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:38:18 --> Input Class Initialized
+INFO - 2018-01-30 17:38:18 --> Language Class Initialized
+INFO - 2018-01-30 17:38:18 --> Language Class Initialized
+INFO - 2018-01-30 17:38:18 --> Config Class Initialized
+INFO - 2018-01-30 17:38:18 --> Loader Class Initialized
+INFO - 2018-01-30 17:38:18 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:38:18 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:38:18 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:38:18 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:38:18 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:38:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:38:18 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:38:18 --> Dashboard MX_Controller Initialized
+INFO - 2018-01-30 17:38:18 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:38:18 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:38:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:38:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:38:18 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:18 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:38:18 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/dashboard/views/dashboard.php
+DEBUG - 2018-01-30 17:38:18 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:38:18 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:38:18 --> Final output sent to browser
+DEBUG - 2018-01-30 17:38:19 --> Total execution time: 0.8687
+INFO - 2018-01-30 17:38:20 --> Config Class Initialized
+INFO - 2018-01-30 17:38:20 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:38:20 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:38:20 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:38:20 --> URI Class Initialized
+INFO - 2018-01-30 17:38:20 --> Router Class Initialized
+INFO - 2018-01-30 17:38:20 --> Output Class Initialized
+INFO - 2018-01-30 17:38:20 --> Security Class Initialized
+DEBUG - 2018-01-30 17:38:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:38:20 --> Input Class Initialized
+INFO - 2018-01-30 17:38:20 --> Language Class Initialized
+INFO - 2018-01-30 17:38:20 --> Language Class Initialized
+INFO - 2018-01-30 17:38:20 --> Config Class Initialized
+INFO - 2018-01-30 17:38:20 --> Loader Class Initialized
+INFO - 2018-01-30 17:38:20 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:38:20 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:38:20 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:38:20 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:38:20 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:38:20 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:38:20 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:38:21 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:38:21 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:38:21 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:38:21 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:38:21 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:38:21 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:38:21 --> Model Class Initialized
+INFO - 2018-01-30 17:38:21 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:38:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:38:21 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:38:21 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:21 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:38:21 --> Model Class Initialized
+INFO - 2018-01-30 17:38:21 --> Config Class Initialized
+INFO - 2018-01-30 17:38:21 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:38:21 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:38:21 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:38:21 --> URI Class Initialized
+INFO - 2018-01-30 17:38:21 --> Router Class Initialized
+INFO - 2018-01-30 17:38:21 --> Output Class Initialized
+INFO - 2018-01-30 17:38:21 --> Security Class Initialized
+DEBUG - 2018-01-30 17:38:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:38:21 --> Input Class Initialized
+INFO - 2018-01-30 17:38:21 --> Language Class Initialized
+INFO - 2018-01-30 17:38:21 --> Language Class Initialized
+INFO - 2018-01-30 17:38:21 --> Config Class Initialized
+INFO - 2018-01-30 17:38:21 --> Loader Class Initialized
+INFO - 2018-01-30 17:38:21 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:38:21 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:38:21 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:38:21 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:38:21 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:38:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:38:22 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:38:22 --> Menus MX_Controller Initialized
+INFO - 2018-01-30 17:38:22 --> Helper loaded: form_helper
+INFO - 2018-01-30 17:38:22 --> Form Validation Class Initialized
+INFO - 2018-01-30 17:38:22 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:22 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/user/models/User_model.php
+INFO - 2018-01-30 17:38:22 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:22 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:38:22 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:22 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:38:22 --> Model Class Initialized
+INFO - 2018-01-30 17:38:22 --> Helper loaded: menus/menus_helper
+DEBUG - 2018-01-30 17:38:22 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:38:22 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:22 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_categories_model.php
+INFO - 2018-01-30 17:38:22 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:22 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:38:22 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:22 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/header.php
+DEBUG - 2018-01-30 17:38:22 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/views/edit_menu.php
+DEBUG - 2018-01-30 17:38:22 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/includes/footer.php
+DEBUG - 2018-01-30 17:38:22 --> File loaded: C:\xampp\htdocs\myCMS\application\views\admin/_main_layout.php
+INFO - 2018-01-30 17:38:22 --> Final output sent to browser
+DEBUG - 2018-01-30 17:38:22 --> Total execution time: 1.1667
+INFO - 2018-01-30 17:38:54 --> Config Class Initialized
+INFO - 2018-01-30 17:38:54 --> Hooks Class Initialized
+DEBUG - 2018-01-30 17:38:54 --> UTF-8 Support Enabled
+INFO - 2018-01-30 17:38:54 --> Utf8 Class Initialized
+INFO - 2018-01-30 17:38:54 --> URI Class Initialized
+INFO - 2018-01-30 17:38:54 --> Router Class Initialized
+INFO - 2018-01-30 17:38:54 --> Output Class Initialized
+INFO - 2018-01-30 17:38:54 --> Security Class Initialized
+DEBUG - 2018-01-30 17:38:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-30 17:38:54 --> Input Class Initialized
+INFO - 2018-01-30 17:38:54 --> Language Class Initialized
+INFO - 2018-01-30 17:38:54 --> Language Class Initialized
+INFO - 2018-01-30 17:38:54 --> Config Class Initialized
+INFO - 2018-01-30 17:38:54 --> Loader Class Initialized
+INFO - 2018-01-30 17:38:54 --> Helper loaded: url_helper
+INFO - 2018-01-30 17:38:54 --> Helper loaded: html_helper
+INFO - 2018-01-30 17:38:54 --> Helper loaded: security_helper
+INFO - 2018-01-30 17:38:54 --> Helper loaded: global_helper
+INFO - 2018-01-30 17:38:55 --> Database Driver Class Initialized
+INFO - 2018-01-30 17:38:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-30 17:38:55 --> Controller Class Initialized
+DEBUG - 2018-01-30 17:38:55 --> Themes MX_Controller Initialized
+DEBUG - 2018-01-30 17:38:55 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/page/controllers/Page.php
+DEBUG - 2018-01-30 17:38:55 --> Page MX_Controller Initialized
+INFO - 2018-01-30 17:38:55 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:55 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/page/models/Page_model.php
+INFO - 2018-01-30 17:38:55 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:55 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/blog/controllers/Blog.php
+DEBUG - 2018-01-30 17:38:56 --> Blog MX_Controller Initialized
+DEBUG - 2018-01-30 17:38:56 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/blog/models/Blog_model.php
+INFO - 2018-01-30 17:38:56 --> Model Class Initialized
+DEBUG - 2018-01-30 17:38:56 --> File loaded: C:\xampp\htdocs\myCMS\application\controllers/../modules/menus/controllers/Menus.php
+DEBUG - 2018-01-30 17:38:56 --> Menus MX_Controller Initialized
+DEBUG - 2018-01-30 17:38:56 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menus_model.php
+INFO - 2018-01-30 17:39:00 --> Model Class Initialized
+DEBUG - 2018-01-30 17:39:00 --> File loaded: C:\xampp\htdocs\myCMS\application\modules/menus/models/Menu_type_model.php
+INFO - 2018-01-30 17:39:00 --> Model Class Initialized
+DEBUG - 2018-01-30 17:39:00 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/header.php
+DEBUG - 2018-01-30 17:39:00 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/includes/main-menu.php
+DEBUG - 2018-01-30 17:39:00 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/components/footer.php
+DEBUG - 2018-01-30 17:39:00 --> File loaded: C:\xampp\htdocs\myCMS\application\themes/theme1/category.php
+INFO - 2018-01-30 17:39:00 --> Final output sent to browser
+DEBUG - 2018-01-30 17:39:00 --> Total execution time: 6.5096
