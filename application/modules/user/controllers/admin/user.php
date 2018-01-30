@@ -5,7 +5,6 @@ class User extends Admin_Controller {
 
 	function __construct(){
         parent::__construct();
-        $this->load->helper('user/user_helper');
         $this->load->model('user_model');	
         $this->check_module_permission('users');// check module permission
     }

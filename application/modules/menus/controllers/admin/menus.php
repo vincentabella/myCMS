@@ -8,7 +8,6 @@ class Menus extends Admin_Controller {
         $this->load->model('menus_model');
         $this->load->model('menu_type_model');
         $this->check_module_permission('menus');// check module permission
-        $this->load->helper('menus/menus_helper');
 
         //load content from other module
         $this->load->model('blog/blog_model');

@@ -314,3 +314,79 @@ function truncateStringWords($str, $maxlen){
 
     return $newstr.'...';
 }
+
+
+
+
+/**
+ * Checkbox Selected
+ * @param $value
+ * @return string
+ * @uses blog select categories
+*/
+function checkboxCheck($value){
+    if($value == 1){
+        return 'checked';
+    }else{
+        return '';
+    }
+}
+
+
+/**
+ * Format Module item list
+ * @param $array
+ * @return string
+ * @uses add menu items by module
+ * 
+*/
+function format_modules($array, $child = FALSE){
+    $string = '';
+
+    if(count($array)){
+        $string .= $child == TRUE ? '<ul class="modules list-group category_list">':'<ul class="modules list-group category_list">';
+        //$string .= ' ';
+        foreach($array as $item){
+            if(isset($item['children'])  && count($item['children'])){
+                $string .= '<li class="list-group-item" title="'.$item['name'].'">';
+                $string .= '<div class="form-check">
+                                <label for="module'.$item['id'].'">
+                                    <input value="'.$item['id'].'" id="module'.$item['id'].'" class="form-check-input" type="checkbox">
+                                    '.truncateStringWords($item['name'], 35).'
+                                </label>
+                            </div>';
+
+                $string .= format_modules($item['children'], TRUE);
+            }else{
+                $string .= '<li class="list-group-item" title="'.$item['name'].'">';
+                $string .= '<div class="form-check">
+                                <label for="module'.$item['id'].'">
+                                    <input value="'.$item['id'].'" id="module'.$item['id'].'" class="form-check-input" type="checkbox">
+                                    '.truncateStringWords($item['name'], 35).'
+                                </label>
+                            </div>';
+            }
+            $string .= '</li>';
+        }
+
+        $string .= '</ul>';
+
+    }
+
+    return $string;
+}
+
+
+/**
+ * Display User Status
+ * @param $status
+ * @return string
+ * @uses users display status
+*/
+ function setStatus($status){
+    if($status == 'active'){
+        return '<b style="font-weight: bold;color: #00cc33;">'. ucfirst($status) .'</b>';
+    }else{
+        return '<b style="font-weight: bold;color: #92C7C7;">'. ucfirst($status) .'</b>';
+    }
+ }
