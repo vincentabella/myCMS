@@ -1,0 +1,15 @@
+MYCMS 
+Todos::
+
+1.) Edit Slug
+2.) Edit User Profile - ok
+3.) Dynamic Adding of Menu - ok
+4.) Uploads table for all images
+5.) Banner > html image, video
+6.) Menu active state
+7.) San Beda Theme UI
+8.) Delete Image
+
+Advance Features:
+1.) Private Key for theme authentication
+2.

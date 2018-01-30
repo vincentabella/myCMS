@@ -1,0 +1,165 @@
+input[type="submit"], button {
+   cursor: pointer;
+}
+
+
+.no-padding { padding: 0!important;}
+.no-margin {margin: 0!important;}
+
+.my-card{
+	background: #fff;
+	padding: 1.9rem 1.5rem;
+}
+.card-spacer {
+	margin-top: 1.5em;
+}
+
+.category_list {
+	border: 1px solid rgba(0, 0, 0, 0.125);
+	padding: 0;
+}
+.category_list li.list-group-item, .category_list li ul{
+	border: 0;
+	padding-bottom: 0!important;
+	padding-top: 0!important;
+	margin-bottom: 0!important;
+	margin-top: 0!important;
+	/*text-transform: uppercase;*/
+ 
+
+}
+
+
+.category_list li.list-group-item .form-check, .category_list li.list-group-item .form-radio {
+    position: relative !important;
+    display: block !important;
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+}
+
+div.center-cropped {
+    width: 282px;
+    height: 350px;
+    overflow:hidden;
+    float: left;
+    margin-right: 15px;
+}
+div.center-cropped img {
+
+    height: 100%;
+    min-width: 100%;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.post-title{
+    text-transform: uppercase;
+    color: #333;
+ 
+}
+.post-title:hover{
+    text-decoration: none;
+    /*color: #5a5a5a;*/
+    color: #1991EB;
+}
+
+/**
+ * Module: Menu
+*/
+#add-menu-type {border-radius: 0;background: #1991EB !important;}
+#add-menu-type .nav-link {border: 0!important;}
+#add-menu-type a { color: #fff !important;}
+#nav-menu-type {border-bottom: 0 !important;}
+#nav-menu-type .nav-link.active, #nav-menu-type .nav-item.show .nav-link{
+    border-color: transparent;
+    border-radius: 0!important;
+}
+#nav-menu-type li:first-child .active{
+    
+}
+.menu-wrap{margin-left: 0px; margin-right: 5px;background:#fff}
+
+
+#menu-name{
+    color: #212529 !important;
+    font-size: 18px !important;
+    padding: 0!important;
+}
+#edit-menu-name, #delete-menu-name{
+    color: #333 !important;
+    font-weight:bold;
+}
+
+.url-title{
+    font-weight: normal!important;
+    margin-left: 50px;
+    font-size: 11px;
+    color: #333;
+}
+
+.status-tab-link{
+    color: #5a5a5a!important;
+}
+
+.text-black{
+    color: #333 !important;
+    
+}
+.text-black th{
+   font-weight: bold!important; 
+}
+
+
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+    border-right:0; 
+    box-shadow:0 0 0; 
+    border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+#accordion .card-header {cursor: pointer!important;}
+
+
+.user-profile .user-img img{
+    width: 100%;
+}
+
+.user-profile .user-name p{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0!important;
+    font-size: 18px;
+    font-weight: 500;
+}
+.user-profile .user-role p{
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #cacdd7;
+}
+
