@@ -10,7 +10,7 @@ class Blog extends Admin_Controller {
       	$this->load->model('blog_category_model');
       	$this->load->helper('blog/blog_helper');
 
-        $this->check_module_permission('blog');//check module permission
+        $this->check_module_permission('blogs');//check module permission
     }
 
 
