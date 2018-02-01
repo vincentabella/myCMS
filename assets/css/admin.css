@@ -71,14 +71,15 @@ div.center-cropped img {
 }
 
 .post-title{
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     color: #333;
  
 }
 .post-title:hover{
-    text-decoration: none;
+    text-decoration: underline;
     /*color: #5a5a5a;*/
-    color: #1991EB;
+    /*color: #1991EB;*/
+    color: #333;
 }
 
 /**
@@ -163,3 +164,16 @@ div.center-cropped img {
     color: #cacdd7;
 }
 
+.brand-logo img{
+    width: 100%!important;
+}
+.brand-logo-mini img{
+    width: 60%!important;
+}
+
+
+.d-user-image {
+    border-radius: 50%;
+  
+    width: 100px;
+}

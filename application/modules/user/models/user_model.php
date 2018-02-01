@@ -243,4 +243,19 @@ class User_model extends MY_Model {
 	}
 
 
+
+
+	/**
+     * Get Recent Post
+     * @param $limit
+     * @return object array
+     * @uses global
+    */
+	public function get_user_activity($limit){
+		$this->db->where('status', 'active');
+        $this->db->order_by('last_login desc');
+        $this->db->limit($limit);
+        return parent::get();
+	}
+
 }

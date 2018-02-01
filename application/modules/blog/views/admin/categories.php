@@ -32,7 +32,7 @@
                                 <textarea class="form-control p-input" name="description" id="description" rows="5" placeholder="Please type the category description"></textarea>
                             </div>
                             <div class="form-group">
-                                <input type="submit" id="btn-submit" class="btn btn-primary" value="Save Category">&nbsp;&nbsp;
+                                <button type="submit" id="btn-submit" class="btn btn-primary"><i class="fa fa-check-square-o"></i> Save New Category</button>&nbsp;&nbsp;
                                 <span class="processing-loader" style="display: none;"><i class="fa fa-spinner fa-spin"></i> Saving...</span>&nbsp;&nbsp;</center>
                             </div>
                         </form>

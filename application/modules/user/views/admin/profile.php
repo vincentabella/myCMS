@@ -28,7 +28,7 @@
 
                     <div id="btn-save-avatar" class="form-group" style="text-align: center;display:none;">
                         <input type="hidden" value="" id="image-url">
-                        <input type="submit" id="btn-save-avatar" class="btn btn-primary" value="Save Avatar"> <br><br>
+                        <button type="submit" id="btn-save-avatar" class="btn btn-primary"><i class="fa fa-check-square-o"></i> Save New Avatar</button><br><br>
                         <span class="processing-loader-avatar" style="display:none;"><i class="fa fa-spinner fa-spin"></i> Saving...</span>
                     </div>
 
@@ -64,7 +64,7 @@
                         </div>
                         
                         <div class="form-group">
-                            <input type="submit" id="btn-save-info" class="btn btn-primary" value="Update Info"> &nbsp;&nbsp;
+                            <button type="submit" id="btn-save-info" class="btn btn-primary"><i class="fa fa-check-square-o"></i> Update Info</button> &nbsp;&nbsp;
                             <span class="processing-loader-info" style="display: none;"><i class="fa fa-spinner fa-spin"></i> Saving...</span>
                         </div>
                     </form>
@@ -100,7 +100,7 @@
                             <input type="password" class="form-control p-input" name="confirm-password" id="confirm-password" placeholder="Password">
                         </div>
                         <div class="form-group">
-                            <input type="submit" id="btn-change-password" class="btn btn-primary" value="Change Password"> &nbsp;&nbsp;
+                            <button type="submit" id="btn-change-password" class="btn btn-primary"><i class="fa fa-check-square-o"></i> Change Password</button>&nbsp;&nbsp;
                             <span class="processing-loader-password" style="display: none;"><i class="fa fa-spinner fa-spin"></i> Processing...</span>
                         </div>
                     </form>

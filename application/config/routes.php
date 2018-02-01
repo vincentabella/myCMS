@@ -80,12 +80,16 @@ $route['admin/blogs/status/(:any)'] = 'blog/admin/blog/blog_by_status/$1';
 $route['admin/blogs/status/(:any)/(:num)'] = 'blog/admin/blog/blog_by_status/$1/$2'; 
 $route['admin/blogs/search'] = 'blog/admin/blog/search';
 
+
+
+
 // PAGES
 $route['admin/pages'] = 'page/admin/page';
 $route['admin/pages/add'] = 'page/admin/page/add_page';
 $route['admin/pages/edit/(:num)'] = 'page/admin/page/edit_page/$1';
 $route['admin/pages/status/(:any)'] = 'page/admin/page/page_by_status/$1';
 $route['admin/pages/status/(:any)/(:num)'] = 'page/admin/page/page_by_status/$1/$2'; 
+
 
 // MENUS
 $route['admin/menus'] = 'menus/admin/menus';

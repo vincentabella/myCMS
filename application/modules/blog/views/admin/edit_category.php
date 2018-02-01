@@ -33,7 +33,7 @@
                         
                         <div class="form-group">
                             <input type="hidden" value="<?php echo $category->id;?>" id="category-id"/>
-                            <input type="submit" id="btn-submit" class="btn btn-primary" value="Update Category">&nbsp;&nbsp;
+                            <button type="submit" id="btn-submit" class="btn btn-primary"><i class="fa fa-check-square-o"></i> Update Category</button>&nbsp;&nbsp;
                             <span class="processing-loader" style="display: none;"><i class="fa fa-spinner fa-spin"></i> Saving...</span>&nbsp;&nbsp;</center>
                         </div>
                     </form>

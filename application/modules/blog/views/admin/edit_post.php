@@ -54,7 +54,7 @@
 
                             <span class="pull-right">
                                 <input type="hidden" value="<?php echo $post[0]->id;?>" id="post-id">
-                                <button id="btn-publish" type="button" class="btn btn-primary">Update</button>
+                                <button id="btn-publish" type="button" class="btn btn-primary"><i class="fa fa-check-square-o"></i> Update</button>
                             </span>
                             <center><span class="processing-loader" style="display: none;"><i class="fa fa-spinner fa-spin"></i> Saving...</span>&nbsp;&nbsp;</center>
                         </div>
@@ -109,7 +109,7 @@
                                             </p>
                                         <!--end dynamic form upload-->
                                     </div>
-                                    <div class="alert alert-info alert-dismissible" role="alert" style="font-size: 11px;">
+                                    <div class="alert alert-warning alert-dismissible" role="alert" style="font-size: 11px;">
                                         <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
                                         <b>Note:</b> Please click the <b>update</b> button above for the changes to take effect.
                                     </div>

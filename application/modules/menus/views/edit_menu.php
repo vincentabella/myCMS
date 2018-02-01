@@ -317,7 +317,7 @@
                         <div class="col-md-12">
                                 <span class="pull-right">
                                     <span class="processing-loader" style="display: none;"><i class="fa fa-spinner fa-spin"></i> Saving...</span> &nbsp;&nbsp;
-                                    <button type="button" class="btn btn-primary btn-save-menu-items">Save Menu</button>
+                                    <button type="button" class="btn btn-primary btn-save-menu-items"><i class="fa fa-check-square-o"></i> Save Menu</button>
                                 </span>
                               
                                 <div class="clearfix"></div>
@@ -358,7 +358,7 @@
                                 <hr>
                                 <span class="pull-right">
                                     <span class="processing-loader" style="display: none;"><i class="fa fa-spinner fa-spin"></i> Saving...</span> &nbsp;&nbsp;
-                                    <button type="button" class="btn btn-primary btn-save-menu-items">Save Menu</button>
+                                    <button type="button" class="btn btn-primary btn-save-menu-items"><i class="fa fa-check-square-o"></i> Save Menu</button>
                                 </span>
                                 <p>After making updates to your menu items, <br>click the <b>Save Menu</b> button to save your changes.</p>
                         </div>

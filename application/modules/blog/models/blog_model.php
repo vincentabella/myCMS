@@ -92,4 +92,20 @@ class Blog_model extends MY_Model {
         $this->db->where('categories.slug', $category);
         return parent::get();
     }
+
+
+
+
+    /**
+     * Get Recent Post
+     * @param $limit
+     * @return object array
+     * @uses global
+    */
+    public function get_recent_post($limit){
+        $this->db->where('status', 'publish');
+        $this->db->order_by('id desc');
+        $this->db->limit($limit);
+        return parent::get();
+    }
 }

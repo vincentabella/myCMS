@@ -50,7 +50,7 @@
 
                             <span class="pull-right">
                                 <input type="hidden" value="<?php echo $page[0]->id;?>" id="page-id">
-                                <button id="btn-publish" type="button" class="btn btn-primary">Update</button>
+                                <button id="btn-publish" type="button" class="btn btn-primary"><i class="fa fa-check-square-o"></i> Update</button>
                             </span>
                             <center><span class="processing-loader" style="display: none;"><i class="fa fa-spinner fa-spin"></i> Saving...</span>&nbsp;&nbsp;</center>
                         </div>

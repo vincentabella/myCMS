@@ -35,10 +35,10 @@
                             <label for="slug"><h5>Publish</h5></label>
                             <p>Once all of your content is added you have an option to save as draft or publish immediately.</p>
                             <hr>
-                            <button id="btn-draft" type="button" class="btn btn-default">Save Draft</button>
+                            <button id="btn-draft" type="button" class="btn btn-default"><i class="fa fa-floppy-o"></i> Save Draft</button>
 
                             <span class="pull-right">
-                                <button id="btn-publish" type="button" class="btn btn-primary">Publish</button>
+                                <button id="btn-publish" type="button" class="btn btn-primary"><i class="fa fa-check-square-o"></i> Publish</button>
                             </span>
                             <center><span class="processing-loader" style="display: none;"><i class="fa fa-spinner fa-spin"></i> Saving...</span>&nbsp;&nbsp;</center>
                         </div>
@@ -81,7 +81,7 @@
                                         <div id="image-styling" style="border: 2px dashed #ccc; padding: 10px;overflow: hidden;" class="col-sm-12">
                                             <center>
                                                 <div id="preview">
-                                                    <i class="fa fa-file-image-o" style="color: #ccc;margin-top: 80px;font-size: 60px;"></i><br/><br/>
+                                                    <i class="fa fa-file-image-o" style="color: #ccc;margin-top: 80px;font-size: 40px;"></i><br/><br/>
                                                     <span style="color: #ccc;">No Image</span><br><br><br><br><br>
                                                 </div>
                                                

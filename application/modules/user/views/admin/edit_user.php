@@ -58,7 +58,7 @@
                         </div>
                         <div class="form-group">
                             <input type="hidden" value="<?php echo $user->id;?>" id="user-id"/>
-                            <input type="submit" id="btn-submit" class="btn btn-primary" value="Update User"> &nbsp;&nbsp;
+                            <button type="submit" id="btn-submit" class="btn btn-primary"><i class="fa fa-check-square-o"></i> Update User</button> &nbsp;&nbsp;
                             <span class="processing-loader" style="display: none;"><i class="fa fa-spinner fa-spin"></i> Saving...</span>
                         </div>
                     </form>
