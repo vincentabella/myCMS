@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 26, 2018 at 11:17 AM
+-- Generation Time: Feb 02, 2018 at 10:11 AM
 -- Server version: 10.1.28-MariaDB
 -- PHP Version: 5.6.32
 
@@ -57,7 +57,7 @@ INSERT INTO `blog` (`id`, `title`, `content`, `slug`, `status`, `date_created`, 
 (28, 'Trump reportedly uses an Indian accent to mimic Modi at meetings', '<p>As the World Economic Forum kicks off in Davos this week, all eyes are on Narendra Modi, reportedly the first Indian prime minister in 20 years to attend the high-profile gathering of business leaders, economists, and journalists. While French president Emmanuel Macron, German chancellor Angela Merkel, and even US president Donald Trump are all scheduled to deliver speeches, it’s Modi who’s going first, delivering the inaugural keynote address on Jan. 23.</p><p>That may be a sign of India’s growing clout, which has helped develop closer relationships with the US and other Western economies in recent years. But a recent report in The Washington Post suggests that the more things change, the more they stay the same—at least for India. In the report, which discusses the US’s plans to increase the number of troops deployed to Afghanistan, writers Greg Jaffe and Missy Ryan say that Trump has a tendency to imitate Modi’s way of speaking.</p><p style=\\\"\\\">“Senior administration officials said that the president has been known to affect an Indian accent and imitate Indian Prime Minister Narendra Modi, who in an Oval Office meeting last year told him, ‘Never has a country given so much away for so little in return’ as the United States in Afghanistan,” the report, published on Jan. 21, says.</p>', 'trump-reportedly-uses-an-indian-accent-to-mimic-modi-at-meetings', 'publish', '2018-01-23 14:45:18', 'http://localhost/myCMS//uploads/original/1516689914_nature-2-26-17.jpg', 'http://localhost/myCMS//uploads/thumbs/1516689914_nature-2-26-17.jpg', 1, '2018-01-26 09:35:43', 'admin', '2018-01-26 09:35:43', 0, '0000-00-00 00:00:00'),
 (29, 'The mastermind of China’s economic policy will speak at Davos this week', '<p>Last year in Davos, Chinese president Xi Jinping positioned himself as globalization’s most vocal champion. This year, his right-hand man Liu He will shed light on how China intends to shape the world economy.</p><p style=\\\"\\\">Liu, the highest-ranking Chinese official to attend this year’s World Economic Forum in the Swiss Alps, is slated to give a speech (link in Chinese) about China’s economic policy on the event’s second day (Jan. 24). The fact he was chosen to represent China at the annual gathering of global elites is a further sign of his continued ascent to the top ranks of Beijing’s decision-making circle, after years of working mostly behind the scenes.</p>', 'the-mastermind-of-chinas-economic-policy-will-speak-at-davos-this-week', 'publish', '2018-01-23 14:46:12', 'http://localhost/myCMS//uploads/original/1516689969_spring-tree-flowers-meadow-60006.jpeg', 'http://localhost/myCMS//uploads/thumbs/1516689969_spring-tree-flowers-meadow-60006.jpeg', 1, '2018-01-26 09:31:14', 'admin', '2018-01-26 09:31:14', 0, '0000-00-00 00:00:00'),
 (30, 'North Korea is planning a military parade the day before the Winter Olympics', '<p>As South Korea readies for the opening ceremony of the Winter Olympics in Pyeongchang on Feb. 9, its northern neighbor is planning a spectacle of a very different kind just 300 km (186 miles) away.</p><p>North Korea&rsquo;s official news agency said today (Jan. 23) that it will mark Feb. 8 as Army-Building Day, the official anniversary of the Korean People&rsquo;s Army&mdash;an event previously celebrated on April 25. South Korea said earlier that it had detected signs that North Korea was mobilizing around 13,000 troops and 200 pieces of equipment near an airport in Pyongyang for what could be a military parade rehearsal.</p><p>According to NK News, the last time Feb. 8 was used to mark the army anniversary was 1977, after which the date was changed to April 25.</p><p>Pyongyang&rsquo;s announcement comes as the two countries are moving full steam ahead with a detente ahead of the Olympics, which will now include performances by North and South Korea in each other&rsquo;s countries, a joint women&rsquo;s hockey team, and the two sides marching together under a unification flag at the games.</p><p style=\\\"\\\">But the detente, much to the Seoul government&rsquo;s chagrin, hasn&rsquo;t exactly been met with unadulterated support in South Korea. The optics of North Korea holding a military parade just a day before the Winter Olympics opening ceremony isn&rsquo;t likely to boost support for the diplomatic efforts, either. Many South Koreans are already questioning the extent to which the country is accommodating its bellicose neighbor for the Olympics, with its female hockey team, for example, being forced to play with North Korean players. Discontent toward the government&rsquo;s Olympics diplomacy has helped push the popularity of president Moon Jae-in to an all-time low&mdash;until now, he had been registering approval ratings of 70% or above with near-idol status in the country.</p>', 'north-korea-is-planning-a-military-parade-the-day-before-the-winter-olympics', 'publish', '2018-01-23 14:47:27', 'http://localhost/myCMS//uploads/original/1516690043_spring-tree-flowers-meadow-60006.jpeg', 'http://localhost/myCMS//uploads/thumbs/1516690043_spring-tree-flowers-meadow-60006.jpeg', 1, '2018-01-23 14:47:27', 'admin', '2018-01-23 14:47:27', 0, '0000-00-00 00:00:00'),
-(31, 'Asia’s favorite bean just got served up as scrambled eggs', '<p>One of Asia&rsquo;s most familiar food, mung beans, is being reintroduced to the region in a completely reinvented form by a Silicon Valley startup.</p><p>This week (Jan 22), San Francisco-based JUST (formerly known as Hampton Creek) debuted its new plant-derived scrambled &ldquo;eggs&rdquo; for the Asian markets in Hong Kong. The product&mdash;which the company had been promising since its inception in December 2011&mdash;is called &ldquo;Just Scramble.&rdquo;</p><p style=\\\"\\\">When the product is poured into a heated pan, it quickly spreads and begins to cook much like real eggs. The company says Just Scramble has a shelf life of eight to 10 days right now, though its food scientists are working to extend that time.</p><p style=\\\"\\\">JUST is sourcing its mung beans from China&rsquo;s Inner Mongolia, where it has direct relationships with farmers. The beans are then shipped to the US, where they are processed and manufactured. In taking its eggless egg-scramble product to Hong Kong, the company is showing off the fruits of a half-decade of labor in the backyard of two of its more influential investors, Li Ka-shing and Solina Chau, the billionaire tycoons behind the venture-capital firm Horizons Ventures.</p><p style=\\\"\\\"><img class=\\\"fr-dib fr-draggable\\\" src=\\\"http://localhost/myCMS//uploads/original/1516690137_just-ceo.jpg\\\" style=\\\"width: 641px; height: 427.654px;\\\"></p><p style=\\\"\\\"><br></p><p>In February 2014, Horizons Ventures put $15.5 million (paywall) into the company. Later that same year, Horizons was the biggest investor in another fundraising round that totalled $90 million. (Horizon&rsquo;s investment in that round was undisclosed.) Japan&rsquo;s Mitsui &amp; Co., one of the world&rsquo;s largest trading and investment companies, invested $15 million in September 2015. Singapore&rsquo;s biggest state-owned fund was also an investor.</p><p style=\\\"\\\">The company is looking to get Just Scramble into mainland China, Japan, and India as their next launching markets following Hong Kong, according to the food technology&rsquo;s spokesperson.</p>', 'asias-favorite-bean-just-got-served-up-as-scrambled-eggs', 'publish', '2018-01-23 14:49:31', 'http://localhost/myCMS//uploads/original/1516690166_just-scramble-hong-kong-2018.jpg', 'http://localhost/myCMS//uploads/thumbs/1516690166_just-scramble-hong-kong-2018.jpg', 1, '2018-01-23 14:49:31', 'admin', '2018-01-23 14:49:31', 0, '0000-00-00 00:00:00'),
+(31, 'Asia’s favorite bean just got served up as scrambled eggs', '<p>One of Asia’s most familiar food, mung beans, is being reintroduced to the region in a completely reinvented form by a Silicon Valley startup.</p><p>This week (Jan 22), San Francisco-based JUST (formerly known as Hampton Creek) debuted its new plant-derived scrambled “eggs” for the Asian markets in Hong Kong. The product—which the company had been promising since its inception in December 2011—is called “Just Scramble.”</p><p style=\\\"\\\">When the product is poured into a heated pan, it quickly spreads and begins to cook much like real eggs. The company says Just Scramble has a shelf life of eight to 10 days right now, though its food scientists are working to extend that time.</p><p style=\\\"\\\">JUST is sourcing its mung beans from China’s Inner Mongolia, where it has direct relationships with farmers. The beans are then shipped to the US, where they are processed and manufactured. In taking its eggless egg-scramble product to Hong Kong, the company is showing off the fruits of a half-decade of labor in the backyard of two of its more influential investors, Li Ka-shing and Solina Chau, the billionaire tycoons behind the venture-capital firm Horizons Ventures.</p><p style=\\\"\\\"><img class=\\\"fr-dib fr-draggable\\\" src=\\\"http://localhost/myCMS//uploads/original/1516690137_just-ceo.jpg\\\" style=\\\"width: 641px; height: 427.654px;\\\"></p><p style=\\\"\\\"><br></p><p>In February 2014, Horizons Ventures put $15.5 million (paywall) into the company. Later that same year, Horizons was the biggest investor in another fundraising round that totalled $90 million. (Horizon’s investment in that round was undisclosed.) Japan’s Mitsui &amp; Co., one of the world’s largest trading and investment companies, invested $15 million in September 2015. Singapore’s biggest state-owned fund was also an investor.</p><p><br></p><p style=\\\"\\\">The company is looking to get Just Scramble into mainland China, Japan, and India as their next launching markets following Hong Kong, according to the food technology’s spokesperson.</p>', 'asias-favorite-bean-just-got-served-up-as-scrambled-eggs', 'publish', '2018-01-23 14:49:31', 'http://localhost/myCMS//uploads/original/1516690166_just-scramble-hong-kong-2018.jpg', 'http://localhost/myCMS//uploads/thumbs/1516690166_just-scramble-hong-kong-2018.jpg', 1, '2018-02-02 11:35:53', 'admin', '2018-02-02 11:35:53', 0, '0000-00-00 00:00:00'),
 (32, 'test', '<p style=\\\"\\\">test</p>', 'test', 'trash', '2018-01-24 13:17:59', 'http://localhost/myCMS//uploads/original/1516771075_just-ceo.jpg', 'http://localhost/myCMS//uploads/thumbs/1516771075_just-ceo.jpg', 1, '2018-01-24 13:17:59', 'admin', '2018-01-24 13:17:59', 0, '0000-00-00 00:00:00');
 
 -- --------------------------------------------------------
@@ -116,7 +116,37 @@ INSERT INTO `categories` (`id`, `name`, `description`, `image`, `type`, `parent_
 (3, 'Healthy Living', 'This is the description of healthy living.', '', 'blog', 0, 'healthy-living'),
 (5, 'Love and Relationship', 'This is the description.', '', 'blog', 0, 'love-and-relationship'),
 (6, 'Food', '', '', 'blog', 0, 'food'),
-(9, 'Travel', '', '', 'blog', 0, 'travel');
+(9, 'Travel', '', '', 'blog', 0, 'travel'),
+(10, 'Uncategorized', '', '', 'blog', 0, 'uncategorized');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `inquiries`
+--
+
+CREATE TABLE `inquiries` (
+  `id` int(10) NOT NULL,
+  `name` varchar(250) NOT NULL,
+  `subject` varchar(250) NOT NULL,
+  `email` varchar(250) NOT NULL,
+  `contact` varchar(250) NOT NULL,
+  `message` text NOT NULL,
+  `date_sent` datetime NOT NULL,
+  `date_opened` datetime NOT NULL,
+  `status` enum('new','read','trash') NOT NULL,
+  `opened_by` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `inquiries`
+--
+
+INSERT INTO `inquiries` (`id`, `name`, `subject`, `email`, `contact`, `message`, `date_sent`, `date_opened`, `status`, `opened_by`) VALUES
+(1, 'Vincent Abella', 'What is lorem ipsum?', 'snowflakes.abella@gmail.com', '0926 889 2949', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.', '2018-02-20 00:00:00', '2018-02-02 16:04:47', 'read', 'admin'),
+(2, 'John Doe', 'Why do we use it?', 'johndoe@gmail.com', '0915 821 2133', 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).', '2018-02-02 16:03:20', '2018-02-02 16:03:55', 'trash', 'admin'),
+(4, 'Mary Jane Rodriguez', 'Where does it come from?', 'mjrodriguez@gmail.com', '0917 823 3242', 'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.', '2018-02-02 16:23:11', '2018-02-02 16:41:25', 'read', 'admin'),
+(5, 'Samantha Borne', 'Where can I get some?', 'samantha_borne@gmail.com', '0916 782 1213', 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don\'t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn\'t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.', '2018-02-02 16:24:39', '2018-02-02 16:39:27', 'read', 'admin');
 
 -- --------------------------------------------------------
 
@@ -147,23 +177,24 @@ INSERT INTO `menus` (`id`, `title`, `url`, `class`, `icon`, `keyword`, `menu_typ
 (6, 'Home', 'http://localhost/myCMS', '', '', '', 7, 0, 0, '2018-01-12 16:14:01', 'admin', 'parent'),
 (9, 'Blog', '/blog', '', '', 'blogs', 7, 0, 1, '2018-01-12 17:55:30', 'admin', 'blank'),
 (29, 'Dashboard', 'admin/dashboard', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/1.png\" />', 'dashboard', 4, 0, 0, '2018-01-15 16:37:51', 'admin', 'parent'),
-(30, 'Blog', 'blog/admin/blog', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/001-editing.png\" />', 'blog', 4, 0, 1, '2018-01-15 16:37:58', 'admin', 'parent'),
+(30, 'Blog', 'blog/admin/blog', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/001-editing.png\" />', 'blogs', 4, 0, 1, '2018-01-15 16:37:58', 'admin', 'parent'),
 (32, 'Menus', 'menus/admin/menus', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/4.png\">', 'menus', 4, 0, 6, '2018-01-15 16:38:14', 'admin', 'parent'),
-(33, 'Users', 'admin/users', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/2.png\">', 'users', 4, 0, 7, '2018-01-15 16:38:22', 'admin', 'parent'),
-(34, 'Logout', 'admin/logout', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/020-locked.png\">', '', 4, 0, 8, '2018-01-15 16:38:33', 'admin', 'parent'),
-(35, 'All Posts', 'admin/blogs', '', '', '', 4, 30, 2, '2018-01-16 12:06:29', 'admin', 'parent'),
-(36, 'Add New Post', 'admin/blogs/add', '', '', '', 4, 30, 3, '2018-01-16 12:07:04', 'admin', 'parent'),
-(37, 'Blog Categories', 'admin/blogs/categories', '', '', '', 4, 30, 4, '2018-01-16 12:07:23', 'admin', 'parent'),
+(33, 'Users', 'admin/users', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/2.png\">', 'users', 4, 0, 8, '2018-01-15 16:38:22', 'admin', 'parent'),
+(34, 'Logout', 'admin/logout', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/020-locked.png\">', '', 4, 0, 9, '2018-01-15 16:38:33', 'admin', 'parent'),
+(35, 'All Posts', 'admin/blogs', '', '', 'blogs', 4, 30, 2, '2018-01-16 12:06:29', 'admin', 'parent'),
+(36, 'Add New Post', 'admin/blogs/add', '', '', 'blogs', 4, 30, 3, '2018-01-16 12:07:04', 'admin', 'parent'),
+(37, 'Blog Categories', 'admin/blogs/categories', '', '', 'blogs', 4, 30, 4, '2018-01-16 12:07:23', 'admin', 'parent'),
 (51, 'Healthy Living', 'http://localhost/myCMS/category/post/healthy-living', '', '', 'healthy-living', 7, 9, 2, '2018-01-24 11:34:17', 'admin', 'parent'),
 (52, 'Travel', 'http://localhost/myCMS/category/post/travel', '', '', 'travel', 7, 9, 3, '2018-01-24 11:37:09', 'admin', 'parent'),
 (53, 'Politics', 'http://localhost/myCMS/category/post/politics', '', '', 'politics', 7, 9, 4, '2018-01-24 11:38:36', 'admin', 'parent'),
-(57, 'Advertise with Us', 'http://localhost/myCMS/page/11/advertise-with-us', '', '', 'advertise-with-us', 7, 0, 10, '2018-01-24 12:10:41', 'admin', 'parent'),
-(59, 'About Us', 'http://localhost/myCMS/page/14/about-us', '', '', 'about-us', 7, 0, 11, '2018-01-24 12:28:45', 'admin', 'parent'),
+(57, 'Advertise with Us', 'http://localhost/myCMS/page/11/advertise-with-us', '', '', 'advertise-with-us', 7, 0, 5, '2018-01-24 12:10:41', 'admin', 'parent'),
+(59, 'About Us', 'http://localhost/myCMS/page/14/about-us', '', '', 'about-us', 7, 0, 6, '2018-01-24 12:28:45', 'admin', 'parent'),
 (61, 'Pages', 'admin/pages', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/005-forms.png\">', 'pages', 4, 0, 5, '2018-01-24 12:34:51', 'admin', 'parent'),
 (67, 'Dashboard', 'admin/dashboard', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/1.png\" />', 'dashboard', 5, 0, 0, '2018-01-26 09:41:57', 'admin', 'parent'),
-(69, 'Logout', 'admin/logout', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/020-locked.png\">', 'users', 5, 0, 3, '2018-01-26 09:44:37', 'admin', 'parent'),
+(69, 'Logout', 'admin/logout', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/020-locked.png\">', 'users', 5, 0, 2, '2018-01-26 09:44:37', 'admin', 'parent'),
 (70, 'Blog', 'admin/blogs', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/001-editing.png\" />', 'blog', 5, 0, 1, '2018-01-26 09:47:46', 'admin', 'parent'),
-(71, 'Pages', 'admin/pages', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/005-forms.png\">', 'pages', 5, 0, 2, '2018-01-26 09:47:46', 'admin', 'parent');
+(73, 'World News', 'http://localhost/myCMS/category/post/world-news', '', '', 'world-news', 7, 0, 7, '2018-01-30 17:31:18', 'admin', 'parent'),
+(74, 'Inquiries', 'admin/inquiries', '', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/006-letter.png\">', 'inquiries', 4, 0, 7, '2018-02-02 13:44:02', 'admin', 'parent');
 
 -- --------------------------------------------------------
 
@@ -214,9 +245,10 @@ INSERT INTO `module` (`id`, `name`, `uri_string`, `keyword`, `icon`, `parent`) V
 (4, 'Menus', 'admin/menus', 'menus', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/4.png\">', 0),
 (5, 'Users', 'admin/users', 'users', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/2.png\">', 0),
 (6, 'Logout', 'admin/logout', 'users', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/020-locked.png\">', 0),
-(7, 'All Post', 'admin/blogs', 'blog', '', 1),
+(7, 'All Post', 'admin/blogs', 'blogs', '', 1),
 (8, 'Add New Post', 'admin/blogs/add', 'blog_add', '', 1),
-(9, 'Blog Categories', 'admin/blogs/categories', 'blog_categories', '', 1);
+(9, 'Blog Categories', 'admin/blogs/categories', 'blog_categories', '', 1),
+(10, 'Inquiries', 'admin/inquiries', 'inquiries', '<img src=\"http://localhost/myCMS/assets/themes/images/icons/006-letter.png\">', 0);
 
 -- --------------------------------------------------------
 
@@ -279,12 +311,12 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `first_name`, `last_name`, `password`, `role_id`, `last_login`, `last_login_ip`, `status`, `date_created`, `modified_by`, `date_modified`, `image`, `hash`) VALUES
-(1, 'admin', 'snowflakes.abella@gmail.com', 'Vincent', 'Abella', '21232f297a57a5a743894a0e4a801fc3', 1, '2018-01-26 16:24:49', '::1', 'active', '0000-00-00 00:00:00', 'admin', '2018-01-12 11:14:36', 'http://localhost/myCMS/assets/images/face.jpg', ''),
+(1, 'admin', 'snowflakes.abella@gmail.com', 'Vincent', 'Abella', '21232f297a57a5a743894a0e4a801fc3', 1, '2018-02-02 11:18:31', '::1', 'active', '0000-00-00 00:00:00', 'admin', '2018-01-12 11:14:36', 'http://localhost/myCMS//uploads/original/1517456799_avatar-3.jpg', ''),
 (2, 'jamesdeiken', 'jamesdeiken@gmail.com', 'James', 'Deiken', '827ccb0eea8a706c4c34a16891f84e7b', 2, '2018-01-07 20:24:09', '::1', 'inactive', '2018-01-07 02:07:06', 'admin', '2018-01-16 18:22:49', 'http://localhost/myCMS/assets/images/default-profile-pic.png', ''),
-(3, 'darkweb', 'johndoe@gmail.com', 'John', 'Doe', '81dc9bdb52d04dc20036dbd8313ed055', 2, '2018-01-26 16:59:40', '::1', 'active', '2018-01-17 18:08:11', 'admin', '2018-01-26 09:39:15', 'http://localhost/myCMS/assets/images/default-profile-pic.png', ''),
+(3, 'darkweb', 'johndoe@gmail.com', 'John', 'Doe', '81dc9bdb52d04dc20036dbd8313ed055', 2, '2018-01-31 10:06:00', '::1', 'active', '2018-01-17 18:08:11', 'admin', '2018-01-26 09:39:15', 'http://localhost/myCMS//uploads/original/1517217368_avatar-3.jpg', ''),
 (4, 'dummyme', 'lorem_ipsum@gmail.com', 'Jane', 'Jane', '81dc9bdb52d04dc20036dbd8313ed055', 3, '0000-00-00 00:00:00', '', 'inactive', '2018-01-17 18:09:12', 'admin', '2018-01-17 18:20:02', 'http://localhost/myCMS/assets/images/default-profile-pic.png', ''),
-(5, 'kennyrogers', 'kennyrogers@gmail.com', 'Kenny', 'Kenny', '827ccb0eea8a706c4c34a16891f84e7b', 3, '0000-00-00 00:00:00', '', 'active', '2018-01-17 18:13:59', 'admin', '2018-01-17 18:14:19', 'http://localhost/myCMS/assets/images/default-profile-pic.png', ''),
-(6, 'dannyduck', 'dannyduck@gmail.com', 'Danny', 'Danny', '827ccb0eea8a706c4c34a16891f84e7b', 3, '0000-00-00 00:00:00', '', 'active', '2018-01-22 14:54:30', 'admin', '0000-00-00 00:00:00', 'http://localhost/myCMS/assets/images/default-profile-pic.png', '');
+(5, 'kennyrogers', 'kennyrogers@gmail.com', 'Kenny', 'Kenny', '827ccb0eea8a706c4c34a16891f84e7b', 3, '0000-00-00 00:00:00', '', 'inactive', '2018-01-17 18:13:59', 'admin', '2018-02-01 18:07:55', 'http://localhost/myCMS/assets/images/default-profile-pic.png', ''),
+(6, 'dannyduck', 'dannyduck@gmail.com', 'Danny', 'Danny', '827ccb0eea8a706c4c34a16891f84e7b', 3, '0000-00-00 00:00:00', '', 'inactive', '2018-01-22 14:54:30', 'admin', '2018-02-01 18:08:05', 'http://localhost/myCMS/assets/images/default-profile-pic.png', '');
 
 -- --------------------------------------------------------
 
@@ -303,10 +335,10 @@ CREATE TABLE `user_role` (
 --
 
 INSERT INTO `user_role` (`id`, `name`, `module_permissions`) VALUES
-(1, 'Administrator', 'a:9:{i:0;a:2:{s:7:\"keyword\";s:9:\"dashboard\";s:12:\"user_role_id\";s:1:\"1\";}i:1;a:2:{s:7:\"keyword\";s:4:\"blog\";s:12:\"user_role_id\";s:1:\"1\";}i:2;a:2:{s:7:\"keyword\";s:5:\"menus\";s:12:\"user_role_id\";s:1:\"1\";}i:3;a:2:{s:7:\"keyword\";s:5:\"users\";s:12:\"user_role_id\";s:1:\"1\";}i:4;a:2:{s:7:\"keyword\";s:0:\"\";s:12:\"user_role_id\";s:1:\"1\";}i:5;a:2:{s:7:\"keyword\";s:0:\"\";s:12:\"user_role_id\";s:1:\"1\";}i:6;a:2:{s:7:\"keyword\";s:0:\"\";s:12:\"user_role_id\";s:1:\"1\";}i:7;a:2:{s:7:\"keyword\";s:0:\"\";s:12:\"user_role_id\";s:1:\"1\";}i:8;a:2:{s:7:\"keyword\";s:5:\"pages\";s:12:\"user_role_id\";s:1:\"1\";}}'),
-(2, 'Editor', 'a:4:{i:0;a:2:{s:7:\"keyword\";s:9:\"dashboard\";s:12:\"user_role_id\";s:1:\"2\";}i:1;a:2:{s:7:\"keyword\";s:5:\"users\";s:12:\"user_role_id\";s:1:\"2\";}i:2;a:2:{s:7:\"keyword\";s:4:\"blog\";s:12:\"user_role_id\";s:1:\"2\";}i:3;a:2:{s:7:\"keyword\";s:5:\"pages\";s:12:\"user_role_id\";s:1:\"2\";}}'),
+(1, 'Administrator', 'a:10:{i:0;a:2:{s:7:\"keyword\";s:9:\"dashboard\";s:12:\"user_role_id\";s:1:\"1\";}i:1;a:2:{s:7:\"keyword\";s:5:\"blogs\";s:12:\"user_role_id\";s:1:\"1\";}i:2;a:2:{s:7:\"keyword\";s:5:\"menus\";s:12:\"user_role_id\";s:1:\"1\";}i:3;a:2:{s:7:\"keyword\";s:5:\"users\";s:12:\"user_role_id\";s:1:\"1\";}i:4;a:2:{s:7:\"keyword\";s:0:\"\";s:12:\"user_role_id\";s:1:\"1\";}i:5;a:2:{s:7:\"keyword\";s:5:\"blogs\";s:12:\"user_role_id\";s:1:\"1\";}i:6;a:2:{s:7:\"keyword\";s:5:\"blogs\";s:12:\"user_role_id\";s:1:\"1\";}i:7;a:2:{s:7:\"keyword\";s:5:\"blogs\";s:12:\"user_role_id\";s:1:\"1\";}i:8;a:2:{s:7:\"keyword\";s:5:\"pages\";s:12:\"user_role_id\";s:1:\"1\";}i:9;a:2:{s:7:\"keyword\";s:9:\"inquiries\";s:12:\"user_role_id\";s:1:\"1\";}}'),
+(2, 'Editor', 'a:3:{i:0;a:2:{s:7:\"keyword\";s:9:\"dashboard\";s:12:\"user_role_id\";s:1:\"2\";}i:1;a:2:{s:7:\"keyword\";s:5:\"users\";s:12:\"user_role_id\";s:1:\"2\";}i:2;a:2:{s:7:\"keyword\";s:4:\"blog\";s:12:\"user_role_id\";s:1:\"2\";}}'),
 (3, 'User', ''),
-(4, 'Visitor', 'a:7:{i:0;a:2:{s:7:\"keyword\";s:0:\"\";s:12:\"user_role_id\";s:1:\"4\";}i:1;a:2:{s:7:\"keyword\";s:8:\"About Us\";s:12:\"user_role_id\";s:1:\"4\";}i:2;a:2:{s:7:\"keyword\";s:10:\"Contact Us\";s:12:\"user_role_id\";s:1:\"4\";}i:3;a:2:{s:7:\"keyword\";s:5:\"blogs\";s:12:\"user_role_id\";s:1:\"4\";}i:4;a:2:{s:7:\"keyword\";s:14:\"healthy-living\";s:12:\"user_role_id\";s:1:\"4\";}i:5;a:2:{s:7:\"keyword\";s:6:\"travel\";s:12:\"user_role_id\";s:1:\"4\";}i:6;a:2:{s:7:\"keyword\";s:8:\"politics\";s:12:\"user_role_id\";s:1:\"4\";}}');
+(4, 'Visitor', 'a:8:{i:0;a:2:{s:7:\"keyword\";s:0:\"\";s:12:\"user_role_id\";s:1:\"4\";}i:1;a:2:{s:7:\"keyword\";s:5:\"blogs\";s:12:\"user_role_id\";s:1:\"4\";}i:2;a:2:{s:7:\"keyword\";s:14:\"healthy-living\";s:12:\"user_role_id\";s:1:\"4\";}i:3;a:2:{s:7:\"keyword\";s:6:\"travel\";s:12:\"user_role_id\";s:1:\"4\";}i:4;a:2:{s:7:\"keyword\";s:8:\"politics\";s:12:\"user_role_id\";s:1:\"4\";}i:5;a:2:{s:7:\"keyword\";s:17:\"advertise-with-us\";s:12:\"user_role_id\";s:1:\"4\";}i:6;a:2:{s:7:\"keyword\";s:8:\"about-us\";s:12:\"user_role_id\";s:1:\"4\";}i:7;a:2:{s:7:\"keyword\";s:10:\"world-news\";s:12:\"user_role_id\";s:1:\"4\";}}');
 
 --
 -- Indexes for dumped tables
@@ -329,6 +361,12 @@ ALTER TABLE `blog_category`
 -- Indexes for table `categories`
 --
 ALTER TABLE `categories`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `inquiries`
+--
+ALTER TABLE `inquiries`
   ADD PRIMARY KEY (`id`);
 
 --
@@ -389,13 +427,19 @@ ALTER TABLE `blog_category`
 -- AUTO_INCREMENT for table `categories`
 --
 ALTER TABLE `categories`
-  MODIFY `id` int(50) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `id` int(50) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+
+--
+-- AUTO_INCREMENT for table `inquiries`
+--
+ALTER TABLE `inquiries`
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT for table `menus`
 --
 ALTER TABLE `menus`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=76;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=75;
 
 --
 -- AUTO_INCREMENT for table `menu_type`
@@ -407,7 +451,7 @@ ALTER TABLE `menu_type`
 -- AUTO_INCREMENT for table `module`
 --
 ALTER TABLE `module`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
 
 --
 -- AUTO_INCREMENT for table `pages`
