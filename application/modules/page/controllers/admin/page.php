@@ -109,11 +109,11 @@ class Page extends Admin_Controller {
                 $count = $pages_count[0]->All;
                 break;
             }
-            case 'publish':{
+            case 'new':{
                 $count = $pages_count[0]->totalPublish;
                 break;
             }
-            case 'draft':{
+            case 'read':{
                 $count = $pages_count[0]->totalDraft;
                 break;
             }

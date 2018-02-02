@@ -390,3 +390,28 @@ function format_modules($array, $child = FALSE){
         return '<b style="font-weight: bold;color: #92C7C7;">'. ucfirst($status) .'</b>';
     }
  }
+
+
+
+/**
+ * Set Status Color for Inquiry
+ * @param $status
+ * @return string
+ * @uses display of status, inquiries
+*/
+function set_inquiry_status($status){
+    switch($status){
+        case 'new':{
+            return '<span class="badge badge-warning"><strong>New</strong></span>';
+        }
+        case 'read':{
+            return '<span class="badge badge-success"><strong>Opened</strong></span>';
+        }
+        case 'trash': {
+            return '<span class="badge badge-danger"><strong>Trash</strong></span>';
+        }
+        default: {
+            return FALSE;
+        }
+    }
+}

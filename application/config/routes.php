@@ -103,3 +103,10 @@ $route['admin/users/edit/(:num)'] = 'user/admin/user/edit/$1';
 $route['admin/users/role/(:any)'] = 'user/admin/user/user_by_role/$1';
 $route['admin/users/role/(:any)/(:num)'] = 'user/admin/user/user_by_role/$1/$2'; 
 $route['admin/users/profile'] = 'user/admin/user/profile';
+
+
+// ROUTES
+$route['admin/inquiries'] = 'inquiries/admin/inquiries';
+$route['admin/inquiries/view/(:num)'] = 'inquiries/admin/inquiries/view_inquiry/$1';
+$route['admin/inquiries/status/(:any)'] = 'inquiries/admin/inquiries/inquiries_by_status/$1';
+$route['admin/inquiries/status/(:any)/(:num)'] = 'inquiries/admin/inquiries/inquiries_by_status/$1/$2'; 
