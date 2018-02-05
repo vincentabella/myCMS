@@ -216,6 +216,8 @@ class User extends Admin_Controller {
 
 
 
+
+
 	/**
 	 * User Logout
 	 * @uses clear user session
